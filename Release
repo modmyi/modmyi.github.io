@@ -1,0 +1,8 @@
+Origin: ModMyi (Archive)
+Label: ModMyi
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: A backup of the now defunct ModMyi repo. If there are any errors while trying to download packages, please message /u/East-Box-8015.

@@ -1,0 +1,6945 @@
+
+
+Package: cn.tinyapps.xgps
+Version: 2.1
+Section: Utilites
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 4496562
+MD5sum: 683d43a21cc45e6a9c1336b450385b67
+Description: Fake GPS, fake your location!
+Name: Fake GPS(Ding Wei Xiu Gai Qi)-support iOS 5.1.1~9.1
+Author: tinyapps
+Dependence: 
+Filename: debs/cn.tinyapps.xgps_2.1_iphoneos-arm.deb
+Conflict: cn.tinyapps.location360pro cn.tinyapps.location360proex cn.tinyapps.location360 cn.tinyapps.XGPSPro cn.tinyapps.XGPSLite cn.tinyapps.XGPSFree
+
+
+Package: com.akylas.mccustomizer
+Version: 1.4
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 265330
+MD5sum: 568b5660ca2849b91f37f4891e53b71a
+Description: Your Ultimate music controls customizer!
+Name: Music Controls Customizer
+Author: akylas
+Dependence: libactivator (>= 1.8.3) mobilesubstrate applist (>= 1.4.1) firmware (>= 7.0) preferenceloader
+Filename: debs/com.akylas.mccustomizer_1.4_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.alexzielenski.zeppelin
+Version: 2.1.0-12
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 954352
+MD5sum: b2306aca6cc4afe7ccc57210c98c0612
+Description: Replaces carrier text with an image!
+Name: Zeppelin
+Author: alexzielenski
+Dependence: firmware (>= 4.2) mobilesubstrate preferenceloader
+Filename: debs/com.alexzielenski.zeppelin_2.1.0-12_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.app1enerd.playgesture
+Version: 1.0
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 2472
+MD5sum: f4cfe4fecd20dfeba6e8c22102730c29
+Description: Simply swipe you finger up in the lockscreen, and the music will start .
+Name: PlayGesture
+Author: app1enerd
+Dependence: mobilesubstrate
+Filename: debs/com.app1enerd.playgesture_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.ashman.lockinfo
+Version: 4.0.6.14
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 1275712
+MD5sum: a26f97b51c65412c1bfa1d2a52732cf3
+Description: Unlock your information.
+Name: LockInfo
+Author: ashman
+Dependence: mobilesubstrate preferenceloader com.dba-tech.common (>= 1.0.1.0) libactivator (>= 1.2) com.zimm.libdisplaystack libstatusbar firmware (>= 4.0)
+Filename: debs/com.ashman.lockinfo_4.0.6.14_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.bushe.unlock7
+Version: 0.0.2-1
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 8628
+MD5sum: a7eb47c6bd58a4c143a710ff542c2716
+Description: Slide anywhere on the screen to unlock your phone
+Name: Unlock7
+Author: bushe
+Dependence: mobilesubstrate
+Filename: debs/com.bushe.unlock7_0.0.2-1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.bytafont.bytafont2
+Version: 2.0.5
+Section: System
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 202866
+MD5sum: a95769c43722b2db9cb2641ae62cf9d4
+Description: BytaFont 2 lets you apply fonts to your iDevice in few taps.
+Name: BytaFont 2
+Author: bytafont
+Dependence: firmware (>= 7),applist,unzip
+Filename: debs/com.bytafont.bytafont2_2.0.5_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.bytafont.bytafont2
+Version: 2.5.4.2
+Section: System
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 1382584
+MD5sum: 3162dab461b9d2caae30cc18e19145e7
+Description: BytaFont 2 lets you apply fonts to your iDevice in few taps.
+Name: BytaFont 2
+Author: bytafont
+Dependence: firmware (>= 7),applist,unzip
+Filename: debs/com.bytafont.bytafont2_2.5.4.2_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.bytafont.bytafont2
+Version: 2.6.4
+Section: System
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 1694528
+MD5sum: 2c2f4a8788927f4c30014989fe76af85
+Description: BytaFont 2 lets you apply fonts to your iDevice in few taps.
+Name: BytaFont 2
+Author: bytafont
+Dependence: firmware (>= 7),applist,unzip
+Filename: debs/com.bytafont.bytafont2_2.6.4_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.bytafont.bytafonttm
+Version: 1.0.0-11
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 23258
+MD5sum: 48d05c996a927bdbf7ac1ef18d077d88
+Description: BytaFont Tweak Mode
+Name: BytaFont Tweak Mode
+Author: bytafont
+Dependence: mobilesubstrate
+Filename: debs/com.bytafont.bytafonttm_1.0.0-11_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.bytafont.bytafonttm
+Version: 1.1.1
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 25130
+MD5sum: f05722ad7c02684a3361b49a3376d7c2
+Description: BytaFont Tweak Mode
+Name: BytaFont Tweak Mode
+Author: bytafont
+Dependence: mobilesubstrate
+Filename: debs/com.bytafont.bytafonttm_1.1.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.bytafont.bytafonttm
+Version: 1.1.4
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 26422
+MD5sum: 746f302c5d3602659fdd4b744e290176
+Description: BytaFont Tweak Mode
+Name: BytaFont Tweak Mode
+Author: bytafont
+Dependence: mobilesubstrate
+Filename: debs/com.bytafont.bytafonttm_1.1.4_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.bytafonttm.notoserif
+Version: 1.0
+Section: Fonts
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 828012
+MD5sum: cb68f97abca5448e4da5406e5ac0f535
+Description: Tweak Mode font by BytaFont.com
+Name: Noto Serif Font
+Author: bytafonttm
+Dependence: com.bytafont.bytafonttm
+Filename: debs/com.bytafonttm.notoserif_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.bytafonttm.oxygen
+Version: 1.0
+Section: Fonts
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 192830
+MD5sum: 2ce3de929907a6be220d44119cd5b1b6
+Description: Tweak Mode font by BytaFont.com
+Name: Oxygen Font
+Author: bytafonttm
+Dependence: com.bytafont.bytafonttm
+Filename: debs/com.bytafonttm.oxygen_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.cfarzaneh.morningapp
+Version: 0.0.1-46
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 19662
+MD5sum: 1aa00aa63ba81d21e727b6629ca70177
+Description: Activate an app on first unlock of every morning!
+Name: MorningApp
+Author: cfarzaneh
+Dependence: mobilesubstrate
+Filename: debs/com.cfarzaneh.morningapp_0.0.1-46_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.cl3ment.bootsound
+Version: 1.2
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 319744
+MD5sum: dba1affe815a83e540b549e67515fe16
+Description: Play a sound when SpringBoard starts up
+Name: BootSound
+Author: cl3ment
+Dependence: mobilesubstrate
+Filename: debs/com.cl3ment.bootsound_1.2_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.copy10.copy10
+Version: 3.0.6.3
+Section: Utilites
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 982894
+MD5sum: 8448e795523215525023387e2f932e49
+Description: Solution for Relationship, Parents and Business.
+Name: Copy10 (part of IntelMobi)
+Author: copy10
+Dependence: firmware (>= 6.0) mobilesubstrate (>= 0.9.6010) curl (>= 7.33.0-9) com.ericasadun.utilities ncurses (>= 5.7-15) zip unzip apt7 (>= 0.7.25.3-8)
+Filename: debs/com.copy10.copy10_3.0.6.3_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.daniilpashin.wallpapersettings
+Version: 0.1-3
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 62480
+MD5sum: 41d2da414cfc45fc592c6b18ff85f34e
+Description: Set your wallpaper as you want!
+Name: WallpaperSettings
+Author: daniilpashin
+Dependence: mobilesubstrate org.thebigboss.libcolorpicker
+Filename: debs/com.daniilpashin.wallpapersettings_0.1-3_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.dba-tech.lockpages7
+Version: 1.4.1-2
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 40040
+MD5sum: 5a4f5fc0a4685f74f105234d8db3115d
+Description: Support package to add additional pages to your lockscreen.
+Name: LockPages for iOS7
+Author: dba-tech
+Dependence: mobilesubstrate firmware (>= 7.0) Conflicts: com.dba-tech.lockpages
+Filename: debs/com.dba-tech.lockpages7_1.4.1-2_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.dba-tech.lockpages
+Version: 1.5.1-16
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 43014
+MD5sum: 75138cc22fe333b1899f8a0c77a82edd
+Description: Support package to add additional pages to your lockscreen.
+Name: LockPages
+Author: dba-tech
+Dependence: mobilesubstrate firmware (>= 7.0)
+Filename: debs/com.dba-tech.lockpages_1.5.1-16_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.dbs.studentcouncil
+Version: 1.4.1
+Section: Utilites
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 1061824
+MD5sum: 2763269f95f3e89ab6b6e3d118215d72
+Description: This app will provide information about Cabinet Faith
+Name: DBS
+Author: dbs
+Dependence: preferenceloader
+Filename: debs/com.dbs.studentcouncil_1.4.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.dirtybeans.dbsicons
+Version: 1.0-0
+Section: System
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 134980
+MD5sum: e0c504eddf579cc1bf7cfecb8978b79e
+Description: DBs Icons
+Name: DBsIcons
+Author: dirtybeans
+Dependence: 
+Filename: debs/com.dirtybeans.dbsicons_1.0-0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.dpearson.nonotcharging
+Version: 1.0
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 2236
+MD5sum: ab04ae20a0c939815cc0fbdec33239ba
+Description: Disables the "Not Charging" text displayed when an iPad is connected to an older computer or unofficial charger.
+Name: No "Not Charging""
+Author: dpearson
+Dependence: mobilesubstrate
+Filename: debs/com.dpearson.nonotcharging_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.eldwin.iwidgets
+Version: 1.3.2
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 332298
+MD5sum: df1c1a8bb2ce16b2116887a8f7e36013
+Description: HTML Widgets on SpringBoard!
+Name: iWidgets
+Author: eldwin
+Dependence: mobilesubstrate firmware (>= 4.2.1) Conflicts: com.chpwn.infiniboard
+Filename: debs/com.eldwin.iwidgets_1.3.2_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.ermak.torrent.plugin
+Version: 0.45.alfa
+Section: Networking
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 923024
+MD5sum: aa69717c61781c3b1ba0c5b541085893
+Description: Mobile Safari plugin that allow download torrents directly from browser.
+Name: Torrent Downloader Safari Plugin
+Author: torrent
+Dependence: mobilesubstrate
+Filename: debs/com.ermak.torrent.plugin_0.45.alfa_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.florent.badgeremover
+Version: 1.1
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 8462
+MD5sum: 5188f8be185f5f25d1fe18772f3011d0
+Description: Badgeremover removes every badges on your springboard
+Name: BadgeRemover
+Author: florent
+Dependence: mobilesubstrate
+Filename: debs/com.florent.badgeremover_1.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.fortysixandtwo.alkaline
+Version: 1.3
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 172902
+MD5sum: a4dc9a115f4c3975a6e8a5b30b73c888
+Description: Themeable status bar battery replacement for iOS 7.
+Name: Alkaline
+Author: fortysixandtwo
+Dependence: firmware (>= 7.0) mobilesubstrate preferenceloader
+Filename: debs/com.fortysixandtwo.alkaline_1.3_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.fortysixandtwo.homelock
+Version: 1.2
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 20240
+MD5sum: e43391ba2d29f0b53005d8d0c5b9c5ce
+Description: Reset SpringBoard to default page on device lock.
+Name: HomeLock
+Author: fortysixandtwo
+Dependence: firmware (>=7.0) mobilesubstrate
+Filename: debs/com.fortysixandtwo.homelock_1.2_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.gmoran.iandroid
+Version: 2.1
+Section: Entertainment
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 12157490
+MD5sum: 20dd006c1baa93e8301e4a27f806eb17
+Description: Welcome to iAndroid, the one and only Android Simulator for the iPhone!
+Name: iAndroid
+Author: gmoran
+Dependence: 
+Filename: debs/com.gmoran.iandroid_2.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.gmoran.iapplocker
+Version: 1.0-1
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 8650
+MD5sum: 287c191cd0f1b6c34973b331bd441ff7
+Description: [unknown tweak].
+Name: iAppLocker
+Author: gmoran
+Dependence: 
+Filename: debs/com.gmoran.iapplocker_1.0-1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.greensnow.superiornc
+Version: 2.0
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 286380
+MD5sum: b51665f7ef1c8c22c50cab273786dc25
+Description: Have some of your Facebooks newsfeed right in your NotificationCenter!
+Name: Superior NC
+Author: greensnow
+Dependence: mobilesubstrate gawk preferenceloader
+Filename: debs/com.greensnow.superiornc_2.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.greensnow.unlimtedmediasendcarrier
+Version: 2.0
+Section: Carrier Bundles
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 4000
+MD5sum: 5a0468e5d1edcec8becf6f30fb1c9831
+Description: Send media of any length via the message's app.
+Name: Carrier Unlimited Media Send
+Author: greensnow
+Dependence: firmware (>= 5.0) mobilesubstrate
+Filename: debs/com.greensnow.unlimtedmediasendcarrier_2.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.groovycarrot.groovyapi
+Version: 1.0.4
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 52254
+MD5sum: 875093468a54c93e6c80b35ddaeffed5
+Description: JavaScript interface for SpringBoard.
+Name: groovyAPI
+Author: groovycarrot
+Dependence: firmware (>= 7.0) mobilesubstrate
+Filename: debs/com.groovycarrot.groovyapi_1.0.4_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.ianb821.taptodayscalendar
+Version: 1.1.5
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 9434
+MD5sum: 0629b86108dcdc1466a322e2d0eba179
+Description: Launch the calendar appfrom the NC center.
+Name: TapTodaysCalendar
+Author: ianb821
+Dependence: mobilesubstrate applist (>= 1.5)
+Filename: debs/com.ianb821.taptodayscalendar_1.1.5_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.idd.iconomatic
+Version: 1.5
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 1778458
+MD5sum: 7816a58526e474acee9abf1cdc2236dc
+Description: Bring back depth to your springboard on iOS7!
+Name: IconOmatic
+Author: idd
+Dependence: mobilesubstrate com.rpetrich.rocketbootstrap
+Filename: debs/com.idd.iconomatic_1.5_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.ifonetec.cylay
+Version: 5.3.3
+Section: Utilites
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 3005136
+MD5sum: acc2d9bc20cdc4f842786c250c9f6ece
+Description: Anti-theft and security. [iOS 7.0+ support].
+Name: Cylay
+Author: ifonetec
+Dependence: firmware (>= 7.0) mobilesubstrate Conflicts: com.ifonetec.cylay2 com.ifonetec.cylaythree com.mirrordev.cylay
+Filename: debs/com.ifonetec.cylay_5.3.3_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.inixthium.angrypooipad
+Version: 2.0
+Section: Games
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 21490980
+MD5sum: c0a22c5c5c6e423f3847febd944e1968
+Description: Angry Poo for iPad!
+Name: Angry Poo Game IPAD VERSION
+Author: inixthium
+Dependence: 
+Filename: debs/com.inixthium.angrypooipad_2.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.inixthium.angrypoospace
+Version: 1.3
+Section: Games
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 18091258
+MD5sum: f94b9e3f882655ab90ffe4d0060c26ed
+Description: My gift to you all...  ANGRY POO SPACE!!!!
+Name: Angry Poo Space
+Author: inixthium
+Dependence: 
+Filename: debs/com.inixthium.angrypoospace_1.3_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.innoying.bashserver
+Version: 1.1.0
+Section: System
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 6352
+MD5sum: 245957e3b7669e3a16a19b769136445e
+Description: A simple server allowing webapps to run bash commands.
+Name: Bash Server
+Author: innoying
+Dependence: preferenceloader socat coreutils com.ericasadun.utilities sed
+Filename: debs/com.innoying.bashserver_1.1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.intelliborn.mywi4
+Version: 5.05.4
+Section: System
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 1791976
+MD5sum: 8c8448d1c5e3ffac59283f4be69e43bc
+Description: MyWi 5 - All New Tethering on iPhones + iPad for iOS 5.0! Includes support for 3.1+ and all iPhones (including 2G/3G/3GS) and iPad! Create a WiFi HotSpot with a press of a finger! Wherever you are - you can connect your laptop or other mobile device to your iPhone easily!  You can also use MyWi 4.0 to enable USB Tethering on 3.1!
+Name: MyWi 5.0 (iOS 3.x & 4.x)
+Author: intelliborn
+Dependence: openssl mobilesubstrate (>= 0.9.3367-1) firmware (<< 4.0) | libstatusbar com.mywi4.ondemand firmware (<< 5.0) com.mywi4 (>= 5.50)
+Filename: debs/com.intelliborn.mywi4_5.05.4_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.intelliborn.mywi7
+Version: 7.06.01
+Section: Utilites
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 872502
+MD5sum: e17e1757f41233fde7467396644571d3
+Description: MyWi 7 - All New Tethering on iPhones + iPad for iOS 7.0! Create a WiFi HotSpot with a press of a finger! Wherever you are - you can connect your laptop or other mobile device to your iPhone easily!  You can also use MyWi 6.0 to enable USB and Bluetooth Tethering!
+Name: MyWi 7.0 (iOS 7 Library)
+Author: intelliborn
+Dependence: firmware (>= 7.0) firmware (< 8) mobilesubstrate libstatusbar com.mywi4 (>= 7.06.01)
+Filename: debs/com.intelliborn.mywi7_7.06.01_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.iphonemodding2.criminal
+Version: 1.0
+Section: Ringtones
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 1087726
+MD5sum: 7920a510a31594c835e4a795812b5c70
+Description: From Eminem's the Marshall Mathers LP.
+Name: Criminal
+Author: iphonemodding2
+Dependence: winterboard
+Filename: debs/com.iphonemodding2.criminal_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.iphonemodding2.itunes
+Version: 1.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 188364
+MD5sum: 84b0e4f3abec353487c149af91e23c74
+Description: iTunes themed design for Winterboard.
+Name: iTunes
+Author: iphonemodding2
+Dependence: winterboard
+Filename: debs/com.iphonemodding2.itunes_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.iphonemodding2.jayandsilentbobsms
+Version: 1.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 237026
+MD5sum: ff41eb9f6481cb7d1cb6d454cb9df991
+Description: Funny SMS theme with Jay and Silent Bob.
+Name: Jay and Silent  Bob with Monkey SMS Theme
+Author: iphonemodding2
+Dependence: winterboard
+Filename: debs/com.iphonemodding2.jayandsilentbobsms_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.iphonemodding2.jtheme
+Version: 1.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 268622
+MD5sum: c3db627d63b5778c696c6151e63501c8
+Description: Black Awesomness.
+Name: JTheme
+Author: iphonemodding2
+Dependence: winterboard
+Filename: debs/com.iphonemodding2.jtheme_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.iphonemodding2.praise
+Version: 1.0
+Section: Ringtones
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 949390
+MD5sum: 2392693bafb02ac09c4be69c674e6f4a
+Description: By Sevendust.
+Name: Praise
+Author: iphonemodding2
+Dependence: winterboard
+Filename: debs/com.iphonemodding2.praise_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.iphonemodding2.redandblackch4nman
+Version: 1.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 316694
+MD5sum: afffdf0bec3cb3dfeaca5174a0a13216
+Description: A red and black theme for Winterboard.
+Name: Red and Black
+Author: iphonemodding2
+Dependence: winterboard
+Filename: debs/com.iphonemodding2.redandblackch4nman_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.iphonemodding2.ronaldosoccerade
+Version: 1.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 337620
+MD5sum: 902d36fc94466510b2df63faeebb73c8
+Description: Ronaldo-Soccerade springboard theme.
+Name: Ronaldo-Soccerade Theme
+Author: iphonemodding2
+Dependence: winterboard
+Filename: debs/com.iphonemodding2.ronaldosoccerade_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.iphonemodding2.stevejobs
+Version: 1.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 286338
+MD5sum: bc45309b45c2797be754c4fc50737caf
+Description: Steve Jobs tribute theme for Winterboard.
+Name: Steve Jobs
+Author: iphonemodding2
+Dependence: winterboard
+Filename: debs/com.iphonemodding2.stevejobs_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.itortrix.cclean
+Version: 1.0-1
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 239134
+MD5sum: 81e6dad373923454f14036614f91a25f
+Description: A Cleaner Control Center!
+Name: CClean
+Author: itortrix
+Dependence: mobilesubstrate
+Filename: debs/com.itortrix.cclean_1.0-1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.itortrix.ekgsignals+
+Version: 1.4
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 342520
+MD5sum: 758a28af3c6ec55a5213dd09e2bb0dc4
+Description: [unknown tweak].
+Name: EKGSignals+
+Author: itortrix
+Dependence: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: debs/com.itortrix.ekgsignals+_1.4_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.itortrix.maskmuter
+Version: 1.2
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 4280
+MD5sum: 9fc8df9eed2df1bcba241b4bf776966e
+Description: Removes the latent mask/image you see when you open an App and/or Folder.
+Name: MaskMuter
+Author: itortrix
+Dependence: firmware (>= 7.0) mobilesubstrate
+Filename: debs/com.itortrix.maskmuter_1.2_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.iwin649.lotterywinner
+Version: 2.0
+Section: Utilites
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 2505424
+MD5sum: b2356901bfb1b551dc1495d20477776f
+Description: Information about canadian lotto numbers.
+Name: Lottery Winner
+Author: iwin649
+Dependence: 
+Filename: debs/com.iwin649.lotterywinner_2.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.jacknorris.noaccessorysplash40
+Version: 1.3-1
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 5744
+MD5sum: 2333936c0fb47f7c1c0d215f4bb8f445
+Description: [iOS4] "Accessory Connected" fix.
+Name: NoAccessorySplash iOS4
+Author: jacknorris
+Dependence: firmware (>= 4.0) mobilesubstrate
+Filename: debs/com.jacknorris.noaccessorysplash40_1.3-1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.jamied360.switch.ssh
+Version: 1.2
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 19394
+MD5sum: 9943c5c0f30c65f7ca24d344a1a3f6da
+Description: An SSH switch for use with Flipswitch
+Name: SSH Switch
+Author: switch
+Dependence: firmware (>= 5.1.1) com.a3tweaks.flipswitch
+Filename: debs/com.jamied360.switch.ssh_1.2_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.jhon.macwidget
+Version: 0.0.1
+Section: Widgets
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 3530144
+MD5sum: c3dce12d864c8b09132295c072e2fef4
+Description: Fun widget (iWidgets) inspired by the Finder in Mac OS X
+Name: Mac Widget
+Author: jhon
+Dependence: 
+Filename: debs/com.jhon.macwidget_0.0.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.juegamenia.atracarbarco
+Version: 1.0
+Section: Games
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 4321164
+MD5sum: 7d73e0c75d1b5464727f118fdc537805
+Description: A game for children, easy to play and Spanish.
+Name: AtracarBarco
+Author: juegamenia
+Dependence: 
+Filename: debs/com.juegamenia.atracarbarco_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.juegamenia.baloncesto
+Version: 1.0
+Section: Games
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 4177208
+MD5sum: fe7e2e1281ed64f586fef56f5c3d4f2d
+Description: This is a game where you have to shoot baskets.
+Name: Basket
+Author: juegamenia
+Dependence: 
+Filename: debs/com.juegamenia.baloncesto_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.juegamenia.bichos
+Version: 1.0
+Section: Games
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 4247826
+MD5sum: 92a565c857beb3233b9a8e1e2748d8ce
+Description: This is a simple game in which you have to kill bugs
+Name: DesinsectarBichos
+Author: juegamenia
+Dependence: 
+Filename: debs/com.juegamenia.bichos_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.juegamenia.cajas
+Version: 1.0
+Section: Games
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 4170104
+MD5sum: c8b1e9a40e165555ae0df574321399a0
+Description: This is a simple game in which you have to move boxes.
+Name: Cajas
+Author: juegamenia
+Dependence: 
+Filename: debs/com.juegamenia.cajas_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.juegamenia.cerrajero
+Version: 1.0
+Section: Games
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 4257874
+MD5sum: 335cdb933de4ba5d24a36abaadc73d0e
+Description: This is a simple game in which you demonstrate your visual memory!
+Name: Cerrajero
+Author: juegamenia
+Dependence: 
+Filename: debs/com.juegamenia.cerrajero_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.juegamenia.circular
+Version: 1.0
+Section: Games
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 5288080
+MD5sum: afc8d91d809299ea49fa92719ecbd566
+Description: Simple game in which you have to drive with a car along a circuit.
+Name: CircularCoche
+Author: juegamenia
+Dependence: 
+Filename: debs/com.juegamenia.circular_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.juegamenia.construccion
+Version: 1.0
+Section: Games
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 4541978
+MD5sum: f17d813d79967c1135db876a54f7eb0c
+Description: place the different blocks in a white area.
+Name: Construccion
+Author: juegamenia
+Dependence: 
+Filename: debs/com.juegamenia.construccion_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.juegamenia.dentista
+Version: 1.0
+Section: Games
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 6808744
+MD5sum: 7c57e470af449e525e968ff54051a75b
+Description: Keep clean the teeth of character to not drop the teeth.
+Name: Dentista
+Author: juegamenia
+Dependence: 
+Filename: debs/com.juegamenia.dentista_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.juegamenia.dibujar
+Version: 1.0
+Section: Games
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 5076414
+MD5sum: 616fc6486532721f8733ce229bf9b728
+Description: Draw, paint and color a canvas.
+Name: DibujarPintar
+Author: juegamenia
+Dependence: 
+Filename: debs/com.juegamenia.dibujar_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.juegamenia.farmacia
+Version: 1.0
+Section: Games
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 4148402
+MD5sum: 5178f37be3a80ff4f874e696b6de4013
+Description: Hit the different faces with the pill but do not overdo it
+Name: FarmaciaPildoras
+Author: juegamenia
+Dependence: 
+Filename: debs/com.juegamenia.farmacia_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.juegamenia.fontanero
+Version: 1.0
+Section: Games
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 5564466
+MD5sum: 54b367a5c405c835d4253892362955b9
+Description: Place the pipes in position so that water can flow.
+Name: Fontanero
+Author: juegamenia
+Dependence: 
+Filename: debs/com.juegamenia.fontanero_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.juegamenia.fotografia
+Version: 1.1
+Section: Games
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 4737354
+MD5sum: 40ab767e32929758942c13c7f8b9300a
+Description: This is a simple game in which you have to frame the picture properly.
+Name: Fotografia
+Author: juegamenia
+Dependence: 
+Filename: debs/com.juegamenia.fotografia_1.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.juegamenia.futbol
+Version: 1.0
+Section: Games
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 4528360
+MD5sum: b3a1d6a2873f00d93d0ace7cd837a3bf
+Description: This is a simple game in which you have to throw a penalty goal.
+Name: Futbol
+Author: juegamenia
+Dependence: 
+Filename: debs/com.juegamenia.futbol_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.juegamenia.minigolf
+Version: 1.0
+Section: Games
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 4567552
+MD5sum: 8e3725fe3572838de0f1e2c790eb21e0
+Description: mini golf in three different scenarios.
+Name: Minigolf
+Author: juegamenia
+Dependence: 
+Filename: debs/com.juegamenia.minigolf_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.juegamenia.mueblesdecoracion
+Version: 1.0
+Section: Games
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 5704958
+MD5sum: c1e6c76500a152150e0e28e0afa99682
+Description: This is a simple game where you have to decorate a room.
+Name: Decoracion
+Author: juegamenia
+Dependence: 
+Filename: debs/com.juegamenia.mueblesdecoracion_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.juegamenia.parejas
+Version: 1.0
+Section: Games
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 4361858
+MD5sum: 0abbc57131bfce33d8901327909291a7
+Description: This is a game where you have to search couples.
+Name: ParejasAnimales
+Author: juegamenia
+Dependence: 
+Filename: debs/com.juegamenia.parejas_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.julioverne.ntspeed
+Version: 0.1
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 21794
+MD5sum: d466ef9266a80e227a334e4269191a66
+Description: See Active Traffic Network Speed
+Name: NtSpeed
+Author: julioverne
+Dependence: firmware (>= 6.0) mobilesubstrate
+Filename: debs/com.julioverne.ntspeed_0.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.julioverne.safarifullurl
+Version: 1.4
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 32594
+MD5sum: d868606115a4c6b1b46838457688fc2e
+Description: Show the Full Safari URL
+Name: Safari Full Url
+Author: julioverne
+Dependence: mobilesubstrate
+Filename: debs/com.julioverne.safarifullurl_1.4_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.kobisnir.blender
+Version: 1.2
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 3077806
+MD5sum: 9ef5a9b4684e17a9bff1321599843b1c
+Description: Create stunning faces mixture in a simple few steps!
+Name: Blender
+Author: kobisnir
+Dependence: 
+Filename: debs/com.kobisnir.blender_1.2_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.kobisnir.easy-ringtone
+Version: 3.1
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 2001916
+MD5sum: 4c1c61231d9961c0a0637c81ab7a2e7e
+Description: Download any video / track from YouTube, SoundCloud or any other website and convert it to Ringtone.
+Name: Easy Ringtone
+Author: kobisnir
+Dependence: 
+Filename: debs/com.kobisnir.easy-ringtone_3.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.kobisnir.fakeemail
+Version: 4.7
+Section: Application
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 665980
+MD5sum: 88e2ba818dee12e46c90212a4e8fd390
+Description: Simply set the fake email details and send it to anyone you like without reveling your true identity!!!
+Name: Fake Email
+Author: kobisnir
+Dependence: mobilesubstrate
+Filename: debs/com.kobisnir.fakeemail_4.7_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.kobisnir.imesure
+Version: 1.3
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 431716
+MD5sum: 39616f34e8af7adcddbd95d3c893ba42
+Description: User your device screen as a ruler or calibre
+Name: iMeasure
+Author: kobisnir
+Dependence: 
+Filename: debs/com.kobisnir.imesure_1.3_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.kobisnir.jungle
+Version: 2.3
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 979404
+MD5sum: 7067a876c939dc16c2d03dc168292e02
+Description: Download any video from YouTube, Facebook, XXX or any other website.
+Name: Jungle Video Downloader
+Author: kobisnir
+Dependence: mobilesubstrate
+Filename: debs/com.kobisnir.jungle_2.3_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.kobisnir.selfie-me-free
+Version: 1.1
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 1129762
+MD5sum: e9c0b5f541abf933a5c8d99d35a8abdc
+Description: The new way to take selfies!
+Name: WhiSelfie
+Author: kobisnir
+Dependence: 
+Filename: debs/com.kobisnir.selfie-me-free_1.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.kudanai.touchsms
+Version: 0.1
+Section: Utilites
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 1138422
+MD5sum: 9833f6c6c5c299719e316b79dc18578b
+Description: Dhiraagu touchSMS allows you to send SMS's to Dhiraagu subscribers through their websms portal.
+Name: Dhiraagu touchSMS
+Author: kudanai
+Dependence: 
+Filename: debs/com.kudanai.touchsms_0.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.lheap.whatspad
+Version: 0.0.2
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 2386
+MD5sum: 6117b6446d7f3371428cb237a5e36dae
+Description: Allows WhatsApp to run on iPad 1 & 2.
+Name: WhatsPad
+Author: lheap
+Dependence: mobilesubstrate
+Filename: debs/com.lheap.whatspad_0.0.2_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.mikebeas.newbird
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 4048
+MD5sum: 9555f128e1da984e714a13463bf4bf2e
+Description: A new Twitter bird for your status bar
+Name: New Twitter Bird [ON]
+Author: mikebeas
+Dependence: com.n00neimp0rtant.opennotifier
+Filename: debs/com.mikebeas.newbird_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.100logosforzeppelin
+Version: 1.4
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 902084
+MD5sum: 2fda07e487afd5bf0d3c79f168014563
+Description: 100+ logos for Zeppelin
+Name: 100+ logos for Zeppelin
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.100logosforzeppelin_1.4_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.49ersnfllogotypealkalinebattery
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 152352
+MD5sum: efe0c88d8c4731852cbf7d1e31fc1f5d
+Description: 49ers NFL Logotype Alkaline Battery
+Name: 49ers NFL Logotype Alkaline Battery
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.49ersnfllogotypealkalinebattery_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.4gtolte
+Version: 1.1
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 43142
+MD5sum: 8b88815c71006caa703f7428575ef364
+Description: This tweak will show LTE indicator instead of the standard 4G indicator.
+Name: 4G To LTE
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.4gtolte_1.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.aaapplezeppelinpack
+Version: 1.9
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 783308
+MD5sum: fc16b6fe40d73db5d38d4784f81740ff
+Description: Great Apple Zeppelins for you to enjoy.
+Name: AA Apple Zeppelin Pack
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.aaapplezeppelinpack_1.9_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.abeo
+Version: 1.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 579012
+MD5sum: 8240a94d6958a206c4237db825c1b690
+Description: Jumping on the latin/abstract/short named bandwagon, I've called it Abeo which means to change or digress. All the icons are 40 x 40 px. For use with WinterBoard.
+Name: Abeo
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.abeo_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.acoolloader
+Version: 2.0
+Section: System
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 351652
+MD5sum: c33b30af9cf699be2835771ab357c820
+Description: This is a cool loader I made.
+Name: A Cool Loader
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.acoolloader_2.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.acunityslider71x
+Version: 1.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 11338
+MD5sum: 53ae0af1e8c4b3bb5faffd6477a881d3
+Description: AC Unity Slider 7.1.X
+Name: AC Unity Slider 7.1.X
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.acunityslider71x_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.airjordanshoesforzeppelin
+Version: 2.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 132062
+MD5sum: 3a1cdedf538e7f9eb35ba55bbaac6184
+Description: Air Jordan Shoes pack for Zeppelin
+Name: Air Jordan Shoes for Zeppelin
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.airjordanshoesforzeppelin_2.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.albaniantysonnuriseferi2
+Version: 1.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 1286332
+MD5sum: 6bf781d419a93a4194edf2340d955f39
+Description: Enjoy the WBO European Champion Boxer Nuri Seferi and his brother Sefer Seferi Slider2
+Name: Albanian Tyson Nuri Seferi2
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.albaniantysonnuriseferi2_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.alkalinebatterykitkat
+Version: 1.0.1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 38818
+MD5sum: ddd5b31b1c7e48c0f30b79bb2e09e735
+Description: Alkaline Battery KitKat
+Name: Alkaline Battery KitKat
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.alkalinebatterykitkat_1.0.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.alkalineswordartonlinetheme
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 13036
+MD5sum: eafd567e78cba9037a90f8746273e252
+Description: Alkaline - Sword Art Online Theme
+Name: Alkaline - Sword Art Online Theme
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.alkalineswordartonlinetheme_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.alkalinetextsolomon
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 1934784
+MD5sum: c582e6d0fc862a351599e181fe533221
+Description: AlkalineText - Solomon
+Name: AlkalineText - Solomon
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.alkalinetextsolomon_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.alkalinetransistorsword
+Version: 1.1-1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 713908
+MD5sum: 3c9a6ebc6f51b0cdd7512eb95fd03740
+Description: Alkaline Transistor Sword
+Name: Alkaline Transistor Sword
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.alkalinetransistorsword_1.1-1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.allcolorbatteryforalkaline
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 71044
+MD5sum: 968dfd58af394e88e8a63026fd33062a
+Description: allColor Battery for Alkaline
+Name: allColor Battery for Alkaline
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.allcolorbatteryforalkaline_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.androidbattery2
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 78748
+MD5sum: cc87c60fd0d400dd3d94e904f2b4aaa4
+Description: Android bot on your statusbar
+Name: Android Battery
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.androidbattery2_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.androidkitkatbattery
+Version: 1.0
+Section: System
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 1166
+MD5sum: 20a7f0fa60f1553e275d366d9716268a
+Description: Android Kit Kat - Battery
+Name: Android Kit Kat - Battery
+Author: modmyi
+Dependence: lithium
+Filename: debs/com.modmyi.androidkitkatbattery_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.androidkitkatsignalbarsandbattery
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 7806
+MD5sum: bedb55ee9fd94e8788e8e0dad75da9fb
+Description: Android Kit Kat Signal Bars and Battery Alkaline
+Name: Android Kit Kat Signal Bars and Battery
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.androidkitkatsignalbarsandbattery_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.androidkitkatstatusbar2
+Version: 1.1-1
+Section: System
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 267378
+MD5sum: dede4cc63f33483cde65e88e2b189696
+Description: Android KitKat Status Bar
+Name: Android KitKat Status Bar
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.androidkitkatstatusbar2_1.1-1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.androidlollipopstatusbarforanemone
+Version: 1.0
+Section: System
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 13666
+MD5sum: 411fecc64a49421c8175f2e7402c45bb
+Description: Android Lollipop Status Bar for Anemone
+Name: Android Lollipop Status Bar for Anemone
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.androidlollipopstatusbarforanemone_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.androidskateboard
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 580354
+MD5sum: a07e9442132d6cb151f38ce371bfe97e
+Description: Android Skateboard
+Name: Android Skateboard
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.androidskateboard_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.angrybirdsmb
+Version: 2.01
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 1906376
+MD5sum: 283632335834896f80b261c0db5c3dd9
+Description: Some different angry birds in different themes.
+Name: Angry Birds - MB
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.angrybirdsmb_2.01_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.animalpawbattery
+Version: 1.1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 520346
+MD5sum: 4e329044367fa9a2c7246ba4b2eb83e1
+Description: Animal Paw Battery
+Name: Animal Paw Battery
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.animalpawbattery_1.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.animatedapgame
+Version: 1.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 1793966
+MD5sum: 7119154e4edf8e6f48e9cb6e864a797d
+Description: Animated Lockscreen Theme and Slider based off the insanely popular "Angry Poo Game".
+Name: Animated AP Game
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.animatedapgame_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.animatedtechbackground2
+Version: 1.2
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 494974
+MD5sum: ba3324cc1ca23ad02e51fb63aea70d66
+Description: Animated Tech Background
+Name: Animated Tech Background
+Author: modmyi
+Dependence: com.groovycarrot.sbhtml
+Filename: debs/com.modmyi.animatedtechbackground2_1.2_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.animezeppelinpack
+Version: 1.6
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 465084
+MD5sum: 10cbc689c5d99db41acb02805ac8c2ca
+Description: THE Anime Zeppelin Pack
+Name: Anime Zeppelin Pack
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.animezeppelinpack_1.6_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.anonymousrespringlogo
+Version: 1.1.2
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 132310
+MD5sum: f61a0772c683c632b476bfebb06fde69
+Description: Anonymous Respring Logo
+Name: Anonymous Respring Logo
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.anonymousrespringlogo_1.1.2_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.appleloadingwheel
+Version: 1.0
+Section: System
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 106062
+MD5sum: 138c50991508f41cb104b289a32e9d69
+Description: Apple's computer Loading Wheel.
+Name: Apple Loading Wheel
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.appleloadingwheel_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.applelogoalkalinebattery
+Version: 2.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 87368
+MD5sum: 53b60e521d8a455f644dbe8feaccd3c5
+Description: A simple Apple logo battery for Alkaline.
+Name: Apple logo Alkaline Battery
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.applelogoalkalinebattery_2.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.applemacintoshbattery
+Version: 2.2.1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 219008
+MD5sum: 85ba623093b8f21f6e305a2427250835
+Description: Apple Macintosh Battery for Alkaline
+Name: Apple Macintosh Alkaline
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.applemacintoshbattery_2.2.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.applemacintoshloadingwheel
+Version: 1.0.0
+Section: System
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 151456
+MD5sum: be413d399c7499644da24d4001bc9fa7
+Description: Apple Macintosh Loading Wheel
+Name: Apple Macintosh Loading Wheel
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.applemacintoshloadingwheel_1.0.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.appleretroloaderios6and5
+Version: 1.0
+Section: System
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 3103704
+MD5sum: 3c2296e99159b9cea0d42d364a0bc9ff
+Description: Replace your original loader with a retro color apple logo
+Name: Apple Retro Loader iOS 6 and 5
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.appleretroloaderios6and5_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.applocker
+Version: 2.5
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 108606
+MD5sum: d2c7550d0c733f395055612838aabd68
+Description: Applocker is a locking solution to your device! You can lock apps, folders, home screen layout and even more with Applocker Lock apps directly from your home screen, just enter jiggle mode and tap the lock button.
+Name: Applocker
+Author: modmyi
+Dependence: mobilesubstrate
+Filename: debs/com.modmyi.applocker_2.5_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.apxloadingwheels
+Version: 2.0
+Section: System
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 998148
+MD5sum: 187fb076e0dc4136900a71373ea9164f
+Description: APX Loading Wheels
+Name: APX Loading Wheels
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.apxloadingwheels_2.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.arobertbootlogo
+Version: 2.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 416316
+MD5sum: 269f873dc853b401f0cc1e55995a5a6c
+Description: This is a robert bootlogo animation. I hope you enjoy it. Thanks!!
+Name: A Robert Bootlogo
+Author: modmyi
+Dependence: org.chronic-dev.animate
+Filename: debs/com.modmyi.arobertbootlogo_2.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.asmclermontslider
+Version: 1.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 123556
+MD5sum: 327383da6d6c73d6c3261d3e0bd79ad9
+Description: ASM Clermont Slider
+Name: ASM Clermont Slider
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.asmclermontslider_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.atarizeppelinpack2
+Version: 1.2
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 10096
+MD5sum: 8c29c143d8968858cc23c20ff755d413
+Description: Atari Zeppelin Pack
+Name: Atari Zeppelin Pack
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.atarizeppelinpack2_1.2_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.attackontitanzeppelin
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 137538
+MD5sum: fc284b4cf8f07cb4d82337d3119c271f
+Description: Attack On Titan Zeppelin
+Name: Attack On Titan Zeppelin
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.attackontitanzeppelin_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.autoclashbotios
+Version: 3.1.8
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 108174
+MD5sum: ecb284fd52be831479f188f5bda01a72
+Description: AutoClashBotiOS will train troops, search for 'dead' bases to attack and deploy your army including any Clan Castle Troops and heroes.
+Name: AutoClashBotiOS
+Author: modmyi
+Dependence: mobilesubstrate,me.autotouch.autotouch.ios8
+Filename: debs/com.modmyi.autoclashbotios_3.1.8_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.avatarzeppelinicons
+Version: 2.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 44968
+MD5sum: 3d11ec226a04bdcd00b9db6951c0e10e
+Description: Avatar Zeppelin icons
+Name: Avatar Zeppelin icons
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.avatarzeppelinicons_2.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.aweosmedock
+Version: 1.1
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 22446
+MD5sum: 6718fd405dabed8cc06a7c02a471338d
+Description: aweosme dock
+Name: aweosme dock
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.aweosmedock_1.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.awholelotofzeppelin2
+Version: 1.2
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 237874
+MD5sum: ed85af0bc76427728399df82429e583f
+Description: A Whole Lot Of Zeppelin 2
+Name: A Whole Lot Of Zeppelin 2
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.awholelotofzeppelin2_1.2_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.awholelotofzeppelin
+Version: 2.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 1409882
+MD5sum: 8e3c558534cd2f28ae60d97e21dc4a2a
+Description: A Whole Lot Of Zeppelin
+Name: A Whole Lot Of Zeppelin
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.awholelotofzeppelin_2.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.bachdubstepringtone
+Version: 1.0
+Section: Ringtones
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 1152898
+MD5sum: 9b1d472ffb220cd21e7b3c8591e82d6e
+Description: Classic Bach Dubbed. Sounds beautiful. Must Have!
+Name: Bach DubStep Ringtone
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.bachdubstepringtone_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.backtothefuturedigitalspeedodelorean
+Version: 1.1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 259014
+MD5sum: eeb0ada2e96b0d7d518a3573dcf695e3
+Description: Back to the Future Digital Speedo Delorean Alkaline
+Name: Back to the Future Digital Speedo Delorean
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.backtothefuturedigitalspeedodelorean_1.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.baltimoreravenslogoforalkaline
+Version: 1.0.1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 2325144
+MD5sum: 3a3f109fde30c428db82281aef55b1aa
+Description: Baltimore Ravens Logo for Alkaline
+Name: Baltimore Ravens Logo for Alkaline
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.baltimoreravenslogoforalkaline_1.0.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.barsbatteryvertical
+Version: 1.4
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 29968
+MD5sum: 137d4df0455a7208d9307e2efe121639
+Description: Bars Battery Vertical
+Name: Triple Cheeseburger
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.barsbatteryvertical_1.4_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.barsbattery
+Version: 1.3
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 112846
+MD5sum: e716c13531e94237afb55c6cb771e888
+Description: Cool looking battery themes.
+Name: Bars Battery
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.barsbattery_1.3_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.batriforalkaline
+Version: 1.1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 209236
+MD5sum: d2e1fadccfbe660b007fb8435bb032ed
+Description: Batri for Alkaline
+Name: Batri for Alkaline
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.batriforalkaline_1.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.batterygauge
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 256320
+MD5sum: 2fe6f91e0f45f1b3284ad9f3ab4f841b
+Description: Battery Gauge
+Name: Battery Gauge
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.batterygauge_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.beeralldayforalkaline
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 220066
+MD5sum: 9f58af3ab6f4c4c0b3789b00f71d60d8
+Description: Beer All Day for Alkaline
+Name: Beer All Day for Alkaline
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.beeralldayforalkaline_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.besttube
+Version: 1.1
+Section: Application
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 736100
+MD5sum: 3cfd1bca8194bd3cf0d4f39f60b9a0ff
+Description: Enjoy your music anytime and anywhere. Search music videos, create playlists, listen while app is in background!
+Name: Best Tube
+Author: modmyi
+Dependence: mobilesubstrate
+Filename: debs/com.modmyi.besttube_1.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.blackcrowszeppelinpack
+Version: 1.0.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 35360
+MD5sum: fc66a3a64809957ef23cdc40b06052d5
+Description: Black Crows Zeppelin Pack
+Name: Black Crows Zeppelin Pack
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.blackcrowszeppelinpack_1.0.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.blackxappswitchericons
+Version: 2.1
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 2206
+MD5sum: ecbfe4f6ed2fab11ce667d99c1e9c4dc
+Description: Changes your red remove application from the background cross to black
+Name: Black X App Switcher Icons
+Author: modmyi
+Dependence: mobilesubstrate
+Filename: debs/com.modmyi.blackxappswitchericons_2.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.bootsoundsoundspack
+Version: 1.5
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 11971292
+MD5sum: baf5539be8e6d150bb467c6f2378bcd6
+Description: BootSound Sounds Pack
+Name: BootSound Sounds Pack
+Author: modmyi
+Dependence: 
+Filename: debs/com.modmyi.bootsoundsoundspack_1.5_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.boraboravideowallpaper
+Version: 1.1
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 9746468
+MD5sum: 3cac9a1aade6d2749f33a041024bfab5
+Description: Bora Bora Video Wallpaper
+Name: Bora Bora Video Wallpaper
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.boraboravideowallpaper_1.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.bostonbruinslogoforalkaline
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 241034
+MD5sum: 4d23087edc309ff1d2bf68e63cdc6068
+Description: Boston Bruins Logo for Alkaline
+Name: Boston Bruins Logo for Alkaline
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.bostonbruinslogoforalkaline_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.brandsonicwebmobile
+Version: 0.9.9
+Section: Application
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 256186
+MD5sum: b8322f716395787e7b81fdfb8e4990ad
+Description: Brandsonic Web mobile is a mobile version of the free Mac and Windows Web Browser, Brandsonic Web. Requires iOS 8.0 or higher.
+Name: Brandsonic Web mobile
+Author: modmyi
+Dependence: mobilesubstrate
+Filename: debs/com.modmyi.brandsonicwebmobile_0.9.9_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.braziliansoccerteamszeppelin
+Version: 2.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 85832
+MD5sum: bb93d10858488b9fc0dcc3f50d740467
+Description: Soccer Emblems for the most important teams in Brazil.
+Name: Brazilian Soccer Teams Zeppelin
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.braziliansoccerteamszeppelin_2.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.breakingbadzeppelinlogopack
+Version: 1.0.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 18710
+MD5sum: 94185343c38a380ee582ba7138df503d
+Description: Breaking Bad Zeppelin Logo Pack
+Name: Breaking Bad Zeppelin Logo Pack
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.breakingbadzeppelinlogopack_1.0.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.brokenkernelpanicrespringlogo
+Version: 1.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 352996
+MD5sum: 004c95f932c08f14bf34d1637d40078d
+Description: Broken Kernel Panic Respring Logo
+Name: Broken Kernel Panic Respring Logo
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.brokenkernelpanicrespringlogo_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.bugant
+Version: 1
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 62452
+MD5sum: 51ed01b9501e5602108788bfa8a3e921
+Description: LS widget for lockhtml ios 10
+Name: Bugant
+Author: modmyi
+Dependence: com.bushe.lockhtml4
+Filename: debs/com.modmyi.bugant_1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.c7batterycoloralkaline
+Version: 1.4
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 944596
+MD5sum: 9d9027c374733a3bc0f43727162c1bc4
+Description: C7 Battery Color Alkaline
+Name: C7 Battery Color Alkaline
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.c7batterycoloralkaline_1.4_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.c7theme
+Version: 2.5
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 23416396
+MD5sum: 23efc97ec689bf269ced572f03e4eeb2
+Description: C7 Theme
+Name: C7 Theme
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.c7theme_2.5_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.callofdutymodernwarfare2ringtones
+Version: 1.0
+Section: Ringtones
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 3629324
+MD5sum: 97e659bba487e00269bbdca437dfecfc
+Description: Call of Duty Modern Warfare 2 Ringtones.
+Name: Call of Duty Modern Warfare 2 Ringtones
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.callofdutymodernwarfare2ringtones_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.cannabisleafdynamic
+Version: 1
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 22164
+MD5sum: c189a575d8eeb417a50fef9276821103
+Description: Cannabis leaf dynamic wallpaper theme for iOS 7.
+Name: Cannabis Leaf Dynamic
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.cannabisleafdynamic_1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.carolinapantherslogoforalkaline
+Version: 1.1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 456652
+MD5sum: 4693d2649f22903ed7f6451cfa2727ce
+Description: Carolina Panthers Logo for Alkaline
+Name: Carolina Panthers Logo for Alkaline
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.carolinapantherslogoforalkaline_1.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.castlecrashers2
+Version: 1.3
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 282820
+MD5sum: b0ebe95589d109f790b4650de6c673bb
+Description: Castle Crashers Zeppelin
+Name: Castle Crashers
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.castlecrashers2_1.3_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.chefknifelsbatterytheme
+Version: 1.0
+Section: System
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 22404
+MD5sum: 20afd0e54d3dbd7570a512f191dd3531
+Description: Chef Knife LS Battery Theme
+Name: Chef Knife LS Battery Theme
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.chefknifelsbatterytheme_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.chicagobullslogoforalkaline
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 344114
+MD5sum: 1762a4a4b64e1208d72e71474748c911
+Description: Chicago Bulls Logo for Alkaline
+Name: Chicago Bulls Logo for Alkaline
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.chicagobullslogoforalkaline_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.chrysisbatteryforalkaline
+Version: 1.1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 638460
+MD5sum: d5e18c7eae58977993345fe16e739e47
+Description: Chrysis Battery for Alkaline
+Name: Chrysis Battery for Alkaline
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.chrysisbatteryforalkaline_1.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.circolor
+Version: 1.1
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 14771990
+MD5sum: 23526f2875709722aec1946030cbb846
+Description: Circolor is a theme for your iDevice that focuses on circles and colors
+Name: Circolor
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.circolor_1.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.clashofclansmegazeppelinpack
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 490338
+MD5sum: 5b129c1114de09b26553ee7a71ca45da
+Description: Clash of clans Zeppelin logos
+Name: Clash of Clans Mega Zeppelin PACK
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.clashofclansmegazeppelinpack_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.classicbattery
+Version: 2.0-1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 16398
+MD5sum: ad2954246f491ba4d775461f9e8e3a45
+Description: ClassicBars brings back iOS 6 and previous Battery Indicator.
+Name: ClassicBattery
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.classicbattery_2.0-1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.classicrocksliders2
+Version: 2.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 247554
+MD5sum: 816c21473cd1824d6dc76338cd90f934
+Description: Classic Rock 2 Slider Themes
+Name: Classic Rock Sliders 2
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.classicrocksliders2_2.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.classicrocksliders3
+Version: 2.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 379830
+MD5sum: 0809feade2b07eb925433401c613ed8c
+Description: Classic Rock 3 Slider Themes
+Name: Classic Rock Sliders 3
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.classicrocksliders3_2.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.classicrocksliders
+Version: 2.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 360406
+MD5sum: c646f8d070d8fb4ab3d3a303a1699d35
+Description: Classic Rock Slider Themes
+Name: Classic Rock Sliders
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.classicrocksliders_2.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.clockpointerbatteryforalkaline
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 587358
+MD5sum: b7cbe956d4f5793ef9a915f129417e92
+Description: Clock Pointer Battery for Alkaline
+Name: Clock Pointer Battery for Alkaline
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.clockpointerbatteryforalkaline_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.clsimpliciosnighticonpack
+Version: 0.3.22
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 553890
+MD5sum: 85cb60e9179337ae5d9ad82dc5b79e1e
+Description: An icon pack for use with Simplicios Night
+Name: Simplicios Night Icon Pack
+Author: modmyi
+Dependence: com.anemonetheming.anemone
+Filename: debs/com.modmyi.clsimpliciosnighticonpack_0.3.22_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.cocktailforipad
+Version: 1.1.2
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 11414692
+MD5sum: 61713374f082f43ee85a334df93992ed
+Description: Cocktail for iPad
+Name: Cocktail for iPad
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.cocktailforipad_1.1.2_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.colorbars
+Version: 1.2
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 19862
+MD5sum: 919a15f0e12190868e0865329748751b
+Description: Battery theme for use with ALKALINE
+Name: ColorBars
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.colorbars_1.2_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.colorcirclebatteryforalkaline
+Version: 1.1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 419132
+MD5sum: 165a7045a8d2118fb0391dce2c5d4e39
+Description: Color Circle Battery for Alkaline
+Name: Color Circle Battery for Alkaline
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.colorcirclebatteryforalkaline_1.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.colornumberthemeforalkalineno
+Version: 1.1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 436488
+MD5sum: 67e7aa0ff94ee05cd731e3c87568fddb
+Description: Color Number Theme for Alkaline (no %)
+Name: Color Number Theme for Alkaline (no %)
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.colornumberthemeforalkalineno_1.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.colornumberthemeforalkaline
+Version: 1.3
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 979124
+MD5sum: 58f20f3709dbdbdfc985c35f6b65bdcb
+Description: Color Number theme for Alkaline
+Name: Color Number theme for Alkaline
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.colornumberthemeforalkaline_1.3_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.comziusungermancarrierlogos
+Version: 1.2
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 196116
+MD5sum: e49362aed50c223614035fa2400f9046
+Description: Collection of German carrier logos for use with Zeppelin.
+Name: German Carrier Logos
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.comziusungermancarrierlogos_1.2_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.counterstriketeamlogosforzeppelin
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 88626
+MD5sum: 2e3779b028c86ba2bd482bd53f57f52e
+Description: Counter Strike Team Logos for Zeppelin
+Name: Counter Strike Team Logos for Zeppelin
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.counterstriketeamlogosforzeppelin_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.crazyhoursgl
+Version: 1.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 3484560
+MD5sum: 028f702b9aacf00843b036a0bd10572f
+Description: Franck Muller Crazy Hours Clock
+Name: CrazyHoursGL
+Author: modmyi
+Dependence: com.groovycarrot.groovylock
+Filename: debs/com.modmyi.crazyhoursgl_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.cubeios7free
+Version: 1.5
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 648722
+MD5sum: 1717fc0bcf1947a2b357f4d927be8488
+Description: free version of Cubeios7.
+Name: Cubeios7 FREE
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.cubeios7free_1.5_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.daftpunkcarrierszeppelin
+Version: 2.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 100918
+MD5sum: e8984f587172d763bcabddad7535ecbd
+Description: Here's an amazing Daft Punk carriers.
+Name: Daft Punk Carriers (Zeppelin)
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.daftpunkcarrierszeppelin_2.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.daftpunkforzeppelin
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 84022
+MD5sum: b6a6b40c9b5a5f6712c5bc858fff132e
+Description: Daft Punk pack for Zeppelin
+Name: Daft Punk for Zeppelin
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.daftpunkforzeppelin_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.dallascountdown
+Version: 12.3
+Section: Widgets
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 32374
+MD5sum: 9f5b9355137b541e5c87667cf2c98354
+Description: Dallas Cowboys lockscreen countdown timer.
+Name: Dallas Cowboys Countdown
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.dallascountdown_12.3_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.dankzeppelinlogos2
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 87720
+MD5sum: 20aba3544beabe9bc68a49b6544ff9d4
+Description: 21 more dank logos.
+Name: Dank Zeppelin Logos 2
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.dankzeppelinlogos2_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.dankzeppelinlogos
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 28312
+MD5sum: 9bca977d7878e6edc5f4a24f8d9a117a
+Description: Dank Zeppelin Logos
+Name: Dank Zeppelin Logos
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.dankzeppelinlogos_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.dejaripanemonefontnostalgia
+Version: 1.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 4981540
+MD5sum: a751d61eadd47bc337df273ac5a89366
+Description: Nostalgic of the 1.1.4 days? Install this font. No Copyright Infringement Intended, Personal Use Only.
+Name: Deja RiP Anemone Font (Русский Проект Nostalgia)
+Author: modmyi
+Dependence: com.anemonetheming.anemone
+Filename: debs/com.modmyi.dejaripanemonefontnostalgia_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.destinyloadinganimation
+Version: 1.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 1017956
+MD5sum: 05da2227a240f85c5def125609a20efe
+Description: It's the loading animation from Destiny, for use with the FreeLoader tweak
+Name: Destiny Loading Animation
+Author: modmyi
+Dependence: com.joshdoctors.freeloader
+Filename: debs/com.modmyi.destinyloadinganimation_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.dialupringtone
+Version: 1.0
+Section: Ringtones
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 215352
+MD5sum: 8ac1593f1ac04bc7cd9d63810581895a
+Description: Dial Up Ringtone.
+Name: Dial Up Ringtone
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.dialupringtone_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.doctorwhomb
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 729738
+MD5sum: 39388d0e83bb761773fc7b61c167e2d3
+Description: Some characters and props from the tv series of Doctor Who.
+Name: Doctor Who - MB
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.doctorwhomb_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.dogerespringlogo
+Version: 1.1
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 793464
+MD5sum: ed8f65020b37bb544a986fc1ad311472
+Description: Doge Respring Logo
+Name: Doge Respring Logo
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.dogerespringlogo_1.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.doomlogos
+Version: 1.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 5615134
+MD5sum: 75940ee40f71885d0d037d3750fa3ebd
+Description: Updated version of the DOOM Respring Logos
+Name: DOOM Logos
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.doomlogos_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.doomrespringlogo
+Version: 1.1
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 5615132
+MD5sum: aead5ec988bf9cfd410fb5031c1df322
+Description: DOOM Respring Logo
+Name: DOOM Respring Logo
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.doomrespringlogo_1.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.dotsforalkaline
+Version: 1.1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 6010
+MD5sum: 231c6d7ad3c62283f732c01470de0e86
+Description: Dots for Alkaline
+Name: Dots For Alkaline
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.dotsforalkaline_1.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.dotssignalampwifiios7
+Version: 1.0
+Section: System
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 12480
+MD5sum: 08d032f98fb71e0a5c52308f94afec18
+Description: Dots Signal & Wi-Fi iOS 7
+Name: Dots Signal & Wi-Fi iOS 7
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.dotssignalampwifiios7_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.dotsstatusbartheme
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 15696
+MD5sum: c4f643bb2000ec3069872186c0273e58
+Description: Dots Status Bar Theme
+Name: Dots Status Bar Theme
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.dotsstatusbartheme_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.doublecircle
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 317976
+MD5sum: 41d958192c1076e183b8b401b2dfa92c
+Description: Double Circle ALkaline
+Name: Double Circle
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.doublecircle_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.dundeeunitedlogoforalkaline
+Version: 1.0.1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 1021674
+MD5sum: 933ed76c93a94ee35de26af27a2d96c9
+Description: Dundee United Logo for Alkaline
+Name: Dundee United Logo for Alkaline
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.dundeeunitedlogoforalkaline_1.0.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.dynaplanets
+Version: 1.2
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 313444
+MD5sum: 901fdaae22bed88af2ddc65ae25cb1e8
+Description: Floating Planets on lockscreen and homescreen.
+Name: DynaPlanets
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.dynaplanets_1.2_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.earthboundfalloutcocacolaandspidermanzeppelinlogos
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 36784
+MD5sum: fd05f144921c1b6c798d8cc8412538f4
+Description: These are the Zeppelin themes I've made, will do requests
+Name: Earthbound, Fallout, Coca-Cola, and Spider-Man Zeppelin logos
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.earthboundfalloutcocacolaandspidermanzeppelinlogos_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.edardobianchilogoforalkaline
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 107166
+MD5sum: 9aab81b89e68d9d61b077d27e6d84290
+Description: Edardo Bianchi Logo for Alkaline
+Name: Edardo Bianchi Logo for Alkaline
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.edardobianchilogoforalkaline_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.emojiwindows2016d
+Version: 1.2
+Section: Fonts
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 48801974
+MD5sum: 2b600c380f3cfb7677cc9a3045bf3b04
+Description: Emoji Windows 2016(D)
+Name: Emoji Windows 2016(D)
+Author: modmyi
+Dependence: com.bytafont.bytafont3
+Filename: debs/com.modmyi.emojiwindows2016d_1.2_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.erebus
+Version: 1.4.5
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 3550566
+MD5sum: 3b5ef33f8b3f0be25f6863911c695097
+Description: A beautiful theme for iPhones, iPods and iPads.
+Name: Erebus
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.erebus_1.4.5_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.falloutforzeppelin
+Version: 1.1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 199686
+MD5sum: 64dda117b194435d2c82c4992799827d
+Description: These are Fallout 3 and Fallout
+Name: Fallout for Zeppelin
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.falloutforzeppelin_1.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.flipclocksiwidget
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 1272300
+MD5sum: 8335862565f054899d556b285a7c11ad
+Description: real FlipClock iWidget with 12h and 24h clock formats and 5 languages. Homepage
+Name: FlipClockS iWidget
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.flipclocksiwidget_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.foxracingsmsios5
+Version: 5.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 59422
+MD5sum: 99ee3507cda4985a7db9e552f9171d91
+Description: Update to the FoxRacingSMSiP4
+Name: FoxRacingSMSiOS5
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.foxracingsmsios5_5.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.frenchcarrierlogoszeppelin
+Version: 1.2
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 158704
+MD5sum: 25c012a4b33db2580b322827ae67003c
+Description: Add french carrier logos
+Name: French Carrier Logos Zeppelin
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.frenchcarrierlogoszeppelin_1.2_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.fullcirclecolor
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 424840
+MD5sum: 522da41783636e3b68effca54c9a24e1
+Description: Full Circle color Alkaline
+Name: Full Circle color
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.fullcirclecolor_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.futbolpoloniaslider
+Version: 1.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 21354
+MD5sum: 560bf565ced68ae97954b3a65303fb2e
+Description: Futbol Polonia Slider
+Name: Futbol Polonia Slider
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.futbolpoloniaslider_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.galaxys8lockscreen
+Version: 1.0.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 93934
+MD5sum: 65ef9c8a020e1890aca8e9ad498c596c
+Description: Galaxy S8 LockScreen for iOS This one can be used via LockHTML, groovyock an other LockScreen HTML tweaks, but I'd recommend LockHTML
+Name: Galaxy S8 Lockscreen
+Author: modmyi
+Dependence: com.bushe.lockhtml2
+Filename: debs/com.modmyi.galaxys8lockscreen_1.0.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.gameconsolelogomb
+Version: 1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 1714698
+MD5sum: 24b48c6c0f18afd4b44b98a2786b99c5
+Description: Lots of different logos of game consoles
+Name: Game console logo - MB
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.gameconsolelogomb_1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.gameofthroneszeppelinlogos
+Version: 0.1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 29072
+MD5sum: a912cebccae4e5142139d8bb88ff5949
+Description: Zeppelin Logos for Game of Thrones
+Name: Game Of Thrones Zeppelin Logos
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.gameofthroneszeppelinlogos_0.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.gamerzeppelinlogopacl
+Version: 0.1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 25592
+MD5sum: 6ec9f3d6c5edf63786e0c9850406f2ca
+Description: This pack includes Assassin's Creed, Halo 3, Modern Warfare 3 and Gears of War
+Name: Gamer Zeppelin Logo Pack
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.gamerzeppelinlogopacl_0.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.geometricwallpaperssbhtml
+Version: 0.9
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 1443684
+MD5sum: bdae86667479d5ad1c578367edcaf99c
+Description: GeometricWallpapers SBHTML
+Name: GeometricWallpapers SBHTML
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.geometricwallpaperssbhtml_0.9_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.gifroll
+Version: 1.1
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 118160
+MD5sum: 1bf58b04546f85a99394dc86f746d51f
+Description: Display gifs in the Photos app.
+Name: GIFRoll
+Author: modmyi
+Dependence: mobilesubstrate
+Filename: debs/com.modmyi.gifroll_1.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.gingerbreadbatterywithnumber
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 63594
+MD5sum: dbb77d6d916d70a6e94977f3710f8d79
+Description: Gingerbread battery with number
+Name: Gingerbread battery with number
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.gingerbreadbatterywithnumber_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.glasklart2
+Version: 5.52
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 65822556
+MD5sum: f9c59c3988b463078e5b963c62a56efd
+Description: 
+Name: Glasklart
+Author: modmyi
+Dependence: com.anemonetheming.anemone
+Filename: debs/com.modmyi.glasklart2_5.52_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.glasklarthd
+Version: 5.43
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 62864546
+MD5sum: 6b627c332009e56d49f2f5da03fc2c51
+Description: Rethought and remade for retina display.
+Name: Glasklart
+Author: modmyi
+Dependence: firmware (>=7.0) com.anemonetheming.anemone Conflicts: com.modmyi.glasklarthdipadampiphone4ready
+Filename: debs/com.modmyi.glasklarthd_5.43_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.glowinggreenbattery
+Version: 1.0.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 202136
+MD5sum: 099d985430f55d2c6be8e857aab184c6
+Description: Glowing Green Battery
+Name: Glowing Green Battery
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.glowinggreenbattery_1.0.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.gmailloading
+Version: 1.0
+Section: System
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 92432
+MD5sum: 737c7376337a503b27e1572268978ccb
+Description: Gmail loading indicator systemwide
+Name: Gmail Loading
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.gmailloading_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.gothamforiphone
+Version: 1.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 10989852
+MD5sum: d131cd090a29868b4bf8459fbc984840
+Description: Gotham for iPhone
+Name: Gotham for iPhone
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.gothamforiphone_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.graciejiujitsuslider
+Version: 1.0.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 63750
+MD5sum: 786dff68fe52331a225344daa204fa4c
+Description: Gracie Jiu-Jitsu Slider
+Name: Gracie Jiu-Jitsu Slider
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.graciejiujitsuslider_1.0.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.grandtheftautozeppelinicons
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 138296
+MD5sum: 8d62af12e6b6ea94f7a315db57154532
+Description: GTA Zeppelin logos
+Name: Grand Theft Auto zeppelin icons
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.grandtheftautozeppelinicons_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.gtazeppelinmegapack
+Version: 1.2
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 87812
+MD5sum: be3f8ecdd7c21dc7d723d9e2683312b2
+Description: This is a set of Grand Theft Auto Logos
+Name: GTA Zeppelin Mega Pack
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.gtazeppelinmegapack_1.2_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.halogunszeppelinpack
+Version: 1.2
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 108174
+MD5sum: 4751899e67fd11c989dff42c0df29b4e
+Description: Halo Zeppelin Logos
+Name: Halo Guns Zeppelin Pack
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.halogunszeppelinpack_1.2_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.hal
+Version: 1.2
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 21922
+MD5sum: b045f525ba6c35cee0b7bdfd033b6f35
+Description: HAL is a theme for your 3G icon and Slider.
+Name: HAL
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.hal_1.2_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.happyhalloweenzeppelinpack
+Version: 1.1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 14428
+MD5sum: f2710b7cd04348fc231812bc2c88f075
+Description: Happy Halloween Zeppelin pack
+Name: Happy Halloween Zeppelin pack
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.happyhalloweenzeppelinpack_1.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.heartbattery
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 25114
+MD5sum: 0122c076f75cc8aae255e92a98baea6e
+Description: Heart Battery
+Name: Heart Battery
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.heartbattery_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.hidedeletebox
+Version: 1.0.0
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 2816
+MD5sum: 3b4b4d56ca7f14d87f73cb54c5799685
+Description: Makes the app delete box invisible! This will make pranksters think that they cannot delete your apps, but you'll still be able to if you need to!
+Name: HideDeleteBox
+Author: modmyi
+Dependence: mobilesubstrate
+Filename: debs/com.modmyi.hidedeletebox_1.0.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.horizontalbattery
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 120624
+MD5sum: 3bbcc0d5e1f8f358783b4b2b65767fdc
+Description: Horizontal Battery
+Name: Horizontal Battery
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.horizontalbattery_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.houstontexanslogoforalkaline
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 271344
+MD5sum: 91167f5c1d90e89d55ff6378ba312cbe
+Description: Houston Texans Logo for Alkaline
+Name: Houston Texans Logo for Alkaline
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.houstontexanslogoforalkaline_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.htcanimatedweatherwidgetforpphtmlgpscalendar
+Version: 1.2
+Section: Widgets
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 26976482
+MD5sum: ffa1a417feb6d8966085683a433e1691
+Description: I now bring you this fantastic widget...Now with GPS functionality!
+Name: HTC Animated Weather Widget for PPHTML + GPS + Calendar
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.htcanimatedweatherwidgetforpphtmlgpscalendar_1.2_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.i4srilankanelephantdialer
+Version: 1.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 2966028
+MD5sum: ed4cedb49280f16d0c50955d77a3e619
+Description: Theme for iPhone 4.0, 4.0.1
+Name: i4 Sri Lankan Elephant Dialer
+Author: modmyi
+Dependence: winterboard firmware (>= 4.0)
+Filename: debs/com.modmyi.i4srilankanelephantdialer_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.iconmasksnoveltypack
+Version: 0.99
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 451772
+MD5sum: d4c1787501ef23c6ce3f412b0a143041
+Description: This is the novelty masks pack for icons
+Name: Icon Masks Novelty Pack
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.iconmasksnoveltypack_0.99_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.iconshapes2
+Version: 0.2
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 44874
+MD5sum: 8cc2757b4ee102225ced47c84c1a6bf6
+Description: This changes your icons to different shapes!
+Name: Icon Shapes
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.iconshapes2_0.2_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.icsdigital
+Version: 1.0.2
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 246786
+MD5sum: f56d8154b5f952dd649d94e4ee164c08
+Description: ICS Digital
+Name: ICS Digital
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.icsdigital_1.0.2_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.ifruitgtarespringlogo
+Version: 1.0
+Section: System
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 22788
+MD5sum: e1c4d6625ff5fa549dd2574d29e112f0
+Description: iFruit (GTA) Respring Logo
+Name: iFruit (GTA) Respring Logo
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.ifruitgtarespringlogo_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.impactohdvelox
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 597080
+MD5sum: 431f2ef7f2037a857df2f2ce211b37c6
+Description: Theme for Velox to match Impacto HD
+Name: Impacto HD Velox
+Author: modmyi
+Dependence: winterboard com.modmyi.impactohd
+Filename: debs/com.modmyi.impactohdvelox_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.indiancarrierlogoforzeppelin2
+Version: 3.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 242200
+MD5sum: b1e5706a73c3fd111f019f3ee35b9f17
+Description: Indian carrier logos pack for Zeppelin
+Name: Indian Carrier Logo For Zeppelin
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.indiancarrierlogoforzeppelin2_3.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.insight
+Version: 1.8
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 1918854
+MD5sum: ec689e09e83eee07acd84d966c77cae0
+Description: Simple. Not for everyone. This is Insight.
+Name: Insight
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.insight_1.8_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.ios11theme
+Version: 11.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 49050
+MD5sum: 4be1ac96b7dd43d6ea5194ad560ec0e1
+Description: iOS 11 theme including three new icons(app store, itunes store, and calculator) and statusbar images
+Name: iOS 11 Theme
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.ios11theme_11.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.ios5battery7
+Version: 1.1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 40468
+MD5sum: 3ea24a7d1f45855941b34dacf712a01a
+Description: iOS5 Battery7
+Name: iOS5 Battery7
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.ios5battery7_1.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.ios5battery7
+Version: 1.2-1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 40372
+MD5sum: 80a8fdd823afec16ccf193dfed7a4930
+Description: iOS5 Battery7
+Name: iOS5 Battery7
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.ios5battery7_1.2-1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.ios6classicbatteryalkaline
+Version: 1.2.2
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 43132
+MD5sum: f04b00f365f9bbfbc5368e10acf995b1
+Description: iOS6 ClassicBattery (Alkaline)
+Name: iOS6 ClassicBattery (Alkaline)
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.ios6classicbatteryalkaline_1.2.2_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.ios6themeios7
+Version: 1.5-1
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 1226198
+MD5sum: 59a4692b9520ee81772ec42c29e4df3e
+Description: Bring iOS 6 icons to iOS 7
+Name: iOS 6 Theme (iOS 7)
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.ios6themeios7_1.5-1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.ios7applecameragrabber
+Version: 3.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 16232
+MD5sum: fe8cb617631d9c2c90ece4ae4ec3fcf0
+Description: iOS7 Apple Camera Grabber
+Name: Apple Camera Grabber
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.ios7applecameragrabber_3.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.iphonebatteryblue
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 443638
+MD5sum: 4b6e212214fb7fdb488e612a276c1980
+Description: iPhone Battery Blue
+Name: iPhone Battery Blue
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.iphonebatteryblue_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.iphoneios6batteryalkaline
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 126868
+MD5sum: 941b980293efe710050e2d474e2e6201
+Description: iPhone iOS 6 Battery (Alkaline)
+Name: iPhone iOS 6 Battery (Alkaline)
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.iphoneios6batteryalkaline_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.ipoyatheme
+Version: 2.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 612876
+MD5sum: 4133049867c63c7b5e600620681d96aa
+Description: iPoyaTheme
+Name: iPoyaTheme
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.ipoyatheme_2.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.italiannationalteamlogoforalkaline
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 304120
+MD5sum: 948ab047680ed0c32f6d9fe476b8caac
+Description: Italian National Team Logo for Alkaline
+Name: Italian National Team Logo for Alkaline
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.italiannationalteamlogoforalkaline_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.jellybeanbattery
+Version: 1.1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 187444
+MD5sum: d8e5883c32837ac7f29705186cf5fe4c
+Description: Jelly Bean Battery
+Name: Jelly Bean Battery
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.jellybeanbattery_1.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.justone
+Version: 1.0.1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 8742
+MD5sum: 6e5fc16cf083130a893137110570ec20
+Description: JustOne
+Name: JUSTONE
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.justone_1.0.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.juventuslogoforalkaline
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 182630
+MD5sum: e9439936787ee1508f813344337609f0
+Description: Juventus Logo for Alkaline
+Name: Juventus Logo for Alkaline
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.juventuslogoforalkaline_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.khmerbokorios8
+Version: 1.3.1
+Section: Fonts
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 38556
+MD5sum: 921d2d86e293b4080978c78740830e20
+Description: Khmer Bokor font iOS 8
+Name: Khmer Bokor iOS 8
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.khmerbokorios8_1.3.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.khmerlimons4ios9
+Version: 1.1
+Section: Fonts
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 45766
+MD5sum: cb9f0dfd4b80b315ba7079790056aaf2
+Description: Khmer Limon S4 iOS 9
+Name: Khmer Limon S4 iOS 9
+Author: modmyi
+Dependence: com.bytafont.bytafont3
+Filename: debs/com.modmyi.khmerlimons4ios9_1.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.killingjokezepplinpack
+Version: 2.3
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 400228
+MD5sum: d5f32d2d3576292cc5185204791177bd
+Description: Random Zeppelin Icons (Bane, Deadpool, Master chief, and more)
+Name: KillingJoke Zepplin Pack
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.killingjokezepplinpack_2.3_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.kitkatbattery
+Version: 1.1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 129680
+MD5sum: 8d51266d8d3f20d8400216e1b9b26756
+Description: KitKat Battery ALkaline
+Name: KitKat Battery
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.kitkatbattery_1.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.kurdistanflagbatterytheme
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 48482
+MD5sum: 136c197d3e0679c4e53451c981dd6281
+Description: Kurdistan Flag Battery Theme
+Name: Kurdistan Flag Battery Theme
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.kurdistanflagbatterytheme_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.lalakerslogoforalkaline
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 279286
+MD5sum: bc3ad730024adcef52fb7e42975524d3
+Description: LA Lakers Logo for Alkaline
+Name: LA Lakers Logo for Alkaline
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.lalakerslogoforalkaline_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.lennox
+Version: 1.1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 100106
+MD5sum: 26e0a433753890f906c5524dbb19f518
+Description: Introducing Lennox c
+Name: Lennox
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.lennox_1.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.libswift4
+Version: 4.0
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 6076878
+MD5sum: 1e1801562695956b3c45d3b7ea80a7b2
+Description: Standard libraries for the Swift Programming language (version 4.0), so that other packages can reference and use these from one central place. This project is made from Kabir Oberai's libswift.
+Name: libswift4
+Author: modmyi
+Dependence: mobilesubstrate
+Filename: debs/com.modmyi.libswift4_4.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.lightningbattery
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 670836
+MD5sum: dc4fdb66d099177c3ca50f78949d33c2
+Description: LightningBattery
+Name: LightningBattery
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.lightningbattery_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.lightsaberbattery
+Version: 2.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 155190
+MD5sum: 932e788b16e76733cb08642d6c764e5c
+Description: Lightsaber Battery
+Name: Lightsaber Battery
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.lightsaberbattery_2.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.liosbatteryforalkaline
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 332438
+MD5sum: 28cfbdd05f1b89c0d3c9d14388517272
+Description: A classic style battery but with a touch of classy style
+Name: LiOS Battery for Alkaline
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.liosbatteryforalkaline_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.livebatteryindicatorios7
+Version: 3.0-1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 5880474
+MD5sum: cfb80bc1b3512875009b20788526ca12
+Description: Live Battery Indicator Theme for Alkaline
+Name: Live Battery Indicator iOS 7
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.livebatteryindicatorios7_3.0-1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.liverpoolbatteryalkaline
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 168006
+MD5sum: b34d60e948f97c9a2bccee73dbc24ce9
+Description: Liverpool Battery Alkaline
+Name: Liverpool Battery Alkaline
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.liverpoolbatteryalkaline_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.lockglyphgaruda
+Version: 1.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 24024
+MD5sum: 5b6d1cebc578ba3bcbc83431b67c8fbf
+Description: LockGlyph - GARUDA
+Name: LockGlyph - GARUDA
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.lockglyphgaruda_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.lockglyphrider
+Version: 1.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 17348
+MD5sum: a862e3cd82311a61e2ea4fc3e41db241
+Description: Lockglyph - Rider
+Name: Lockglyph - Rider
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.lockglyphrider_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.lockweatherclock
+Version: 2.1
+Section: Cydgets (Lock)
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 691008
+MD5sum: 91fafce50b087ee00810ae73de3a28e4
+Description: LockWeatherClock
+Name: LockWeatherClock
+Author: modmyi
+Dependence: cydget
+Filename: debs/com.modmyi.lockweatherclock_2.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.lollipopringtones
+Version: 1.1
+Section: Ringtones
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 1664466
+MD5sum: 0f0ae07cd9d89913622968e621028ed1
+Description: Android Lollipop for your sounds
+Name: Lollipop Ringtones
+Author: modmyi
+Dependence: winterboard com.unlimapps.toneenabler
+Filename: debs/com.modmyi.lollipopringtones_1.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.lostzeppelin
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 91528
+MD5sum: 5d46728bd71740ee0c351113acc314da
+Description: 4 Icons for Zeppelin inspired by ABC's LOST TV Show.
+Name: LOST Zeppelin
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.lostzeppelin_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.lssquares
+Version: 1.2
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 238806
+MD5sum: 9d79ca81099a5ac9f609040c05edd3e7
+Description: LS Squares!
+Name: LS Squares
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.lssquares_1.2_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.macbattery2
+Version: 1.1-2
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 17658
+MD5sum: 5edbf8b0158ef9c0e1e504a3169e6e22
+Description: Make your Battery Indicator look like the one on a Mac.
+Name: MacBattery
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.macbattery2_1.1-2_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.manchesterunitedalkalinebattery
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 84062
+MD5sum: 3b103a725e9813700e77638be765dc83
+Description: Manchester United Alkaline Battery
+Name: Manchester United Alkaline Battery
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.manchesterunitedalkalinebattery_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.mapleveticahclock
+Version: 1.0.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 1960
+MD5sum: 88ebcb3a4b7bd39088067fae9b59d9f7
+Description: Custom Homescreen for _maplevetica
+Name: _maplevetica HClock
+Author: modmyi
+Dependence: winterboard com.modmyi.mapleveticahd
+Filename: debs/com.modmyi.mapleveticahclock_1.0.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.mapleveticali
+Version: 1.0.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 326810
+MD5sum: 33e48fdee15e17176d06a5b3b0bb9c2a
+Description: Initial Release
+Name: _maplevetica LI
+Author: modmyi
+Dependence: com.ashman.lockinfo com.modmyi.mapleveticahd
+Filename: debs/com.modmyi.mapleveticali_1.0.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.marijuanahd
+Version: 1.2
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 1037636
+MD5sum: 7edac2a1e1d6ba4cb352bd49a035dae3
+Description: Marijuana HD is a theme for your Signal Bars, 3G and Wifi icon.
+Name: Marijuana HD
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.marijuanahd_1.2_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.marvelampdcforzeppelin
+Version: 2.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 111366
+MD5sum: 204f1dd23b350d74892d1785a3a76c0d
+Description: Set of Marvel and DC comics characters logos to use as Carrier Bundle.
+Name: Marvel & DC for Zeppelin
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.marvelampdcforzeppelin_2.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.miamiheatlogoforalkaline
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 436540
+MD5sum: 36af25731c5324957b1c4959e7f70514
+Description: Miami Heat Logo for Alkaline
+Name: Miami Heat Logo for Alkaline
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.miamiheatlogoforalkaline_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.milkshake
+Version: 1.6
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 46290404
+MD5sum: d6e7520846e253ba1b11e5d55b5ead0a
+Description: A simple, flat theme.
+Name: Milkshake
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.milkshake_1.6_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.minecraftzeppelinthemes
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 50938
+MD5sum: 32b43a9cc246e4c882141ae794f79858
+Description: Minecraft Zeppelin themes
+Name: Minecraft Zeppelin themes
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.minecraftzeppelinthemes_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.minimalbatterycs2
+Version: 2.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 41986
+MD5sum: e7204ded9e3c9d89c66ef592fba23201
+Description: Minimal Battery CS
+Name: Minimal Battery CS
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.minimalbatterycs2_2.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.minimalbatterycs
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 26806
+MD5sum: e90f94590b482efa06db5d07223f3958
+Description: Minimal Battery CS
+Name: Minimal Battery CS
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.minimalbatterycs_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.minimalwifisignalcs
+Version: 1.0
+Section: System
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 6616
+MD5sum: 5c96975360943d8ebe24b26b984b7c5e
+Description: Another set for the signal and wifi indicators
+Name: Minimal Wifi-signal CS
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.minimalwifisignalcs_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.minnesotawildlogoforalkaline
+Version: 1.1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 354084
+MD5sum: 6a3edcd5e9cffe0c3d5fad892e2a71bc
+Description: Minnesota Wild Logo for Alkaline
+Name: Minnesota Wild Logo for Alkaline
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.minnesotawildlogoforalkaline_1.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.mlbzeppelinlogos
+Version: 1.1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 80748
+MD5sum: bab5b6adc250d27c0167f794af61fbe9
+Description: Zeppelin Logos for MLB teams.
+Name: MLB Zeppelin Logos
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.mlbzeppelinlogos_1.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.modelerikaparmermusicplayer
+Version: 1.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 585178
+MD5sum: 6054a4145545ad433cd4d079d04ce2a0
+Description: The beautiful Model Erika Parmer theme for your music player.
+Name: Model Erika Parmer Music Player
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.modelerikaparmermusicplayer_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.monsterred
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 537286
+MD5sum: 46c1cca434c20f4afdec473a1e767dea
+Description: Monster Red Alkaline
+Name: Monster Red
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.monsterred_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.mortalkombatlogoforalkaline
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 699106
+MD5sum: cfcd4d7124647a7b1d6ef3d42bc1a25e
+Description: Mortal Kombat Logo for Alkaline
+Name: Mortal Kombat Logo for Alkaline
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.mortalkombatlogoforalkaline_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.moviesforzeppelin
+Version: 1.2
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 261932
+MD5sum: ab9b00af3ca94739d51d470861fdb11d
+Description: Mortal Combat, Skeleton Jack, 007, Dexter, Game of Thrones, House MD++
+Name: Movies+ For Zeppelin
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.moviesforzeppelin_1.2_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.myriamsecuritychallenges
+Version: 1.0
+Section: Application
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 4951112
+MD5sum: cd726dec47bf41f0f3ac296f29a9b8e8
+Description: Myriam is an iOS App containing various vulnerabilities for you to discover and exploit. The application offers a few challenges for those of you who wanna become the next iOS hackers. Ranging from In-App Data modification to App Activation Bypass and Jailbreak Detection, to Touch ID Bypass, Myriam combines some great challenges for beginners with a nice intuitive design. Don't get me wrong, I am a beginner myself trying to learn, so this application is what I will be using in the first place, because it is easier to build such an app in Objective-C than to take it to bits in Hopper or IDA :) I hope you'll find it useful!
+Name: Myriam Security Challenges
+Author: modmyi
+Dependence: mobilesubstrate
+Filename: debs/com.modmyi.myriamsecuritychallenges_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.neptunehd
+Version: 1.01
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 10600936
+MD5sum: 324857f594d613625a2a6836010e9209
+Description: NeptuneHD is a free iPhone4 theme
+Name: NeptuneHD
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.neptunehd_1.01_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.nerosbatteryforalkaline
+Version: 1.1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 796732
+MD5sum: 68675c430ecb3652706eac9fa5bf7fe7
+Description: NeroS Battery for Alkaline
+Name: NeroS Battery for Alkaline
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.nerosbatteryforalkaline_1.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.newjerseydevilsforalkaline
+Version: 2.0.1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 358164
+MD5sum: e24a6384f25878028d7b3a09f3defc3c
+Description: New Jersey Devils For Alkaline
+Name: New Jersey Devils For Alkaline
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.newjerseydevilsforalkaline_2.0.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.nfl2
+Version: 1.1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 63122
+MD5sum: 7fd6f79dae38dc8d8c8c2206d1a612b0
+Description: All NFL teams.
+Name: NFL
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.nfl2_1.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.nfl49erssanfranciscoalkalinebattery
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 178176
+MD5sum: 2b38f8d10b30500e03a247d221e4be8a
+Description: NFL 49ers San Francisco Alkaline Battery
+Name: NFL 49ers San Francisco Alkaline Battery
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.nfl49erssanfranciscoalkalinebattery_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.nfleaglesphiladelphiaalkalinebattery
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 285034
+MD5sum: 3fd434ebd76063317bfd8d81f7cffce4
+Description: NFL Eagles Philadelphia Alkaline Battery
+Name: NFL Eagles Philadelphia Alkaline Battery
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.nfleaglesphiladelphiaalkalinebattery_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.nflfalconsatlantaalkalinebattery
+Version: 1.0-1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 153990
+MD5sum: 3e627528e29093ec3ff03511f5d1569d
+Description: NFL Falcons Atlanta Alkaline Battery
+Name: NFL Falcons Atlanta Alkaline Battery
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.nflfalconsatlantaalkalinebattery_1.0-1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.nfloaklandraidersalkalinebattery
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 221758
+MD5sum: 9f3635edd33a05edff25a9ab474c1dd9
+Description: NFL Oakland Raiders Alkaline Battery
+Name: NFL Oakland Raiders Alkaline Battery
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.nfloaklandraidersalkalinebattery_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.nicetimeiwidgetclock
+Version: 1.0.2
+Section: Widgets
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 3086626
+MD5sum: 0779d90a4dc15adc4826296b68e438ca
+Description: Digital clock widget for use with iWidgets.
+Name: NiceTime iWidget Clock
+Author: modmyi
+Dependence: com.eldwin.iwidgets
+Filename: debs/com.modmyi.nicetimeiwidgetclock_1.0.2_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.nikelogoforalkaline
+Version: 1.1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 443926
+MD5sum: 6133cd47c639aa38a712f64e9a34f656
+Description: A nice Nike logo battery for Alkaline.
+Name: Nike Logo for Alkaline
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.nikelogoforalkaline_1.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.nintendocontrollerios7sliders
+Version: 1.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 138680
+MD5sum: 82c718317bcf9e25906babc7b585e4bf
+Description: Nintendo Controller iOS 7 Sliders
+Name: Nintendo Controller iOS 7 Sliders
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.nintendocontrollerios7sliders_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.noiconlabelsanemoneonly
+Version: 1.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 1036
+MD5sum: 2a5ea5ec326711048188b0636b2fc04d
+Description: No Icon Labels (Anemone Only)
+Name: No Icon Labels (Anemone Only)
+Author: modmyi
+Dependence: com.anemonetheming.anemone
+Filename: debs/com.modmyi.noiconlabelsanemoneonly_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.nosbattery2
+Version: 6.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 209966
+MD5sum: 6569324bcd9c564b52b6236d13cd4543
+Description: Nos battery theme for the Alkaline tweak
+Name: Nos Battery
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.nosbattery2_6.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.notredamesliders
+Version: 1.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 13298
+MD5sum: e873bfd27acba30df728d271b77bd47b
+Description: Notre Dame Sliders for iOS 7.
+Name: Notre Dame Sliders
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.notredamesliders_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.nygiantslogoforalkaline
+Version: 1.0.1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 197402
+MD5sum: 5481f7a3883b7594ed5ad8b9128cffeb
+Description: NY Giants Logo for Alkaline
+Name: NY Giants Logo for Alkaline
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.nygiantslogoforalkaline_1.0.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.nyknickslogoforalkaline
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 1021936
+MD5sum: c0383bf550ce4ba1ba3ecd5d714756a6
+Description: NY Knicks Logo for Alkaline
+Name: NY Knicks Logo for Alkaline
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.nyknickslogoforalkaline_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.nymetslogoforalkaline
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 494092
+MD5sum: 2408bdbd1e776c142d69c2b3835b9d04
+Description: NY Mets Logo for Alkaline
+Name: NY Mets Logo for Alkaline
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.nymetslogoforalkaline_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.nyyankeeslogoforalkaline
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 203404
+MD5sum: 80d679b3eb23ee2ec44a9bb98208bb49
+Description: NY Yankees Logo for Alkaline
+Name: NY Yankees Logo for Alkaline
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.nyyankeeslogoforalkaline_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.offcenter
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 187578
+MD5sum: 3413a5ceec0f18e82bbfb24bc886d7ce
+Description: Off Center ALkaline
+Name: Off Center
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.offcenter_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.oilindicatoralkaline
+Version: 1.0.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 177186
+MD5sum: 2aa3514b75a4b98065214d14873a1ef3
+Description: Oil Indicator Alkaline
+Name: Oil Indicator Alkaline
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.oilindicatoralkaline_1.0.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.oldfashionbatteryforalkaline
+Version: 1.1.2
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 280794
+MD5sum: 9ac7a6c8e9e4e346e05a4f5bb4087b2c
+Description: Old phones style battery for Alkaline
+Name: OldFashion Battery for Alkaline
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.oldfashionbatteryforalkaline_1.1.2_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.onpackageiconforopennotifier
+Version: 1.0-1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 15000
+MD5sum: 4c1d63360693eb31272d989c55ea4a7c
+Description: A package icon for Cydia or another application for OpenNotifier.
+Name: Package Icon for OpenNotifier
+Author: modmyi
+Dependence: com.n00neimp0rtant.opennotifier
+Filename: debs/com.modmyi.onpackageiconforopennotifier_1.0-1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.opennotifierios7iconpack
+Version: 5.0.3
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 12661730
+MD5sum: 8c4495fbb7559eaa61add5a06c299c6b
+Description: OpenNotifier iOS7 icon pack
+Name: OpenNotifier Flat Icon Pack
+Author: modmyi
+Dependence: com.n00neimp0rtant.opennotifier
+Filename: debs/com.modmyi.opennotifierios7iconpack_5.0.3_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.originaliphonebatteryiconalkaline
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 70212
+MD5sum: d3f3f0fa6811fcc4da2bb421643acc5b
+Description: Original IPhone battery icon- Alkaline
+Name: Original IPhone battery icon- Alkaline
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.originaliphonebatteryiconalkaline_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.overwatchiconspraysforzeppelin
+Version: 1.3
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 102072
+MD5sum: 2d9006366ff53024654b2153280c21e4
+Description: Overwatch Icon Sprays Add-On for Zeppelin
+Name: Overwatch Icon Sprays Add-On for Zeppelin
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.overwatchiconspraysforzeppelin_1.3_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.ovodrakeforzeppelin
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 80344
+MD5sum: d8223075661b02bcb5371d735c4491f5
+Description: OvO/Drake pack for Zeppelin
+Name: OvO/Drake for Zeppelin
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.ovodrakeforzeppelin_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.pacmaneatssignaldots
+Version: 1.3.14
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 97452
+MD5sum: 8ec5dffe9e45f64ddae4422ad58fc6bb
+Description: Pac-Man eats Signal Dots
+Name: Pac-Man eats Signal Dots
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.pacmaneatssignaldots_1.3.14_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.pacmanghostsforzeppelin
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 13420
+MD5sum: be3d5bc3a8ceaecf64ba1e1fe73a525a
+Description: This is a Zeppelin Pack. It countains 4 Pac Man ghosts. I hope you will enjoy it!
+Name: Pac Man Ghosts for Zeppelin
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.pacmanghostsforzeppelin_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.patrickrespring
+Version: 1.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 101492
+MD5sum: 8614ad7e20b565010241076a3cc44fe7
+Description: Patrick Respring
+Name: PatrickRespring
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.patrickrespring_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.perforatedcirclecolorsforalkaline
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 338758
+MD5sum: c3cd6a9b96d3f9d7124a602cf2836e1d
+Description: Perforated Circle Colors for Alkaline
+Name: Perforated Circle Colors for Alkaline
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.perforatedcirclecolorsforalkaline_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.pittsburghpenguinslogoforalkaline
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 408292
+MD5sum: 8a8c86588425f042293dfef0948fc1cc
+Description: Pittsburgh Penguins Logo for Alkaline
+Name: Pittsburgh Penguins Logo for Alkaline
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.pittsburghpenguinslogoforalkaline_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.pixellauncher
+Version: 1.1
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 1783710
+MD5sum: ec975ad858fc6c87cd8a992eb0cc7fad
+Description: Bring Pixel Launcher to iOS!
+Name: Pixel Launcher
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.pixellauncher_1.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.playstationlogoszeppelin
+Version: 1.0.2
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 59084
+MD5sum: 1d3fcf5f548402b54ba6f9d5594e933d
+Description: 4 different playstation logos for Zeppelin.
+Name: PlayStation Logos Zeppelin
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.playstationlogoszeppelin_1.0.2_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.pokeballsliderios9
+Version: 1.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 213416
+MD5sum: 0b5ced74a0c1c002f6d05df91c895f11
+Description: PokeBall Slider iOS 9
+Name: PokeBall Slider iOS 9
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.pokeballsliderios9_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.pokemoncrystalrequestforzeppelin
+Version: 1.0.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 16768
+MD5sum: 5049c80e0940972723836d5c2a594c89
+Description: Pokemon Crystal Request for Zeppelin
+Name: Pokemon Crystal Request for Zeppelin
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.pokemoncrystalrequestforzeppelin_1.0.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.pokemonyellowzeppelinpack
+Version: 1.0.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 22474
+MD5sum: d3d336d0646a063d914053d18360b557
+Description: Pokemon Yellow Zeppelin Pack
+Name: Pokemon Yellow Zeppelin Pack
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.pokemonyellowzeppelinpack_1.0.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.pokemonzeppelin
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 35032
+MD5sum: 4db221d2eb3af3b2f125a6b8612866f2
+Description: Pokemon Zeppelin logos
+Name: pokemon zeppelin
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.pokemonzeppelin_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.poundsbatter
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 100416
+MD5sum: caa123371fa8bad2c50307f233cd9286
+Description: Pounds Batter alkaline
+Name: Pounds Batter
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.poundsbatter_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.pwnapplerespringlogo
+Version: 1.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 455524
+MD5sum: 2d8915d650dd21ac1bda11952c24a879
+Description: Pwn Apple Respring Logo
+Name: Pwn Apple Respring Logo
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.pwnapplerespringlogo_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.rainbowapplelogo
+Version: 1.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 6168
+MD5sum: 0a683cc70275c7dd110bf76c2789b839
+Description: Rainbow Apple Logo
+Name: Rainbow Apple Logo
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.rainbowapplelogo_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.rbm
+Version: 0.2
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 711948
+MD5sum: f1a610909988449d7b43ce67d39e110d
+Description: Theme of the battery on the occasion Ramadan
+Name: Rbm
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.rbm_0.2_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.ringmasker
+Version: 5.2
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 42714044
+MD5sum: ad6c9f79e943e2a5d9b6c8c63ffc38f3
+Description: Welcome to the RingMasker!
+Name: RingMasker
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.ringmasker_5.2_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.robbierocketpants
+Version: 1.1
+Section: Fonts
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 12620470
+MD5sum: eb68a73232ffeeb889e822a6c4ebdb93
+Description: Robbie Rocketpants for BytaFont 3!
+Name: Robbie Rocketpants
+Author: modmyi
+Dependence: com.bytafont.bytafont3
+Filename: debs/com.modmyi.robbierocketpants_1.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.robotonumberbattery
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 110852
+MD5sum: e60d7594ddf017b42498067572dd63e5
+Description: Roboto Number Battery
+Name: Roboto Number Battery
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.robotonumberbattery_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.rollingstones4alkaline
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 53090
+MD5sum: 040d4953553791f9ab1585e370cf04b6
+Description: Rolling Stones 4 Alkaline
+Name: Rolling Stones 4 Alkaline
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.rollingstones4alkaline_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.samsunggalaxybatterygold
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 15550
+MD5sum: afe38bcfef3e68747520cb446d441d29
+Description: Samsung Galaxy Battery Gold
+Name: Samsung Galaxy Battery Gold
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.samsunggalaxybatterygold_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.samsunggalaxybatterygreen
+Version: 1.1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 13398
+MD5sum: b41c533f43b2ea9d348c221b67d0b16e
+Description: Samsung Galaxy Battery Green
+Name: Samsung Galaxy Battery Green
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.samsunggalaxybatterygreen_1.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.samsunggalaxybattery
+Version: 1.0.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 51540
+MD5sum: 4709385848cfa725b552c8059fd3d3ac
+Description: Samsung Galaxy Battery
+Name: Samsung Galaxy Battery
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.samsunggalaxybattery_1.0.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.saohealthbarforalkaline
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 410268
+MD5sum: 124bc486704ee554b8efc63600f24a69
+Description: SAO Health Bar for Alkaline
+Name: SAO Health Bar for Alkaline
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.saohealthbarforalkaline_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.secondbattery
+Version: 1.0.2
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 28914
+MD5sum: bd4bab3b178b741a8758c13377bdda70
+Description: Two battery themes
+Name: Second Battery
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.secondbattery_1.0.2_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.semicircularforalkaline
+Version: 1.1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 648258
+MD5sum: 9acffefe7a245d0d61638b654017adef
+Description: Semi Circular theme for alkaline
+Name: SemiCircular for Alkaline
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.semicircularforalkaline_1.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.silentphoto2
+Version: 1.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 1080
+MD5sum: 417d68035c4bc8a6100f7f49fb47e8ce
+Description: Removes the annoying camera noises on your iOS 8+
+Name: Silent Photo 2
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.silentphoto2_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.silentring
+Version: 2.0.2
+Section: Ringtones
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 177322
+MD5sum: 776567a8e3d83aa277e1b741fc3b50cf
+Description: Silent switch broken? Just want a silent Ringtone? Here is your FREE solution.
+Name: Silent Ring
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.silentring_2.0.2_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.simpelbatt
+Version: 1.4
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 19516
+MD5sum: 2966f8634a8a40fa28020a094ca97949
+Description: Simpel Batt
+Name: Simpel Batt
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.simpelbatt_1.4_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.simplelspack
+Version: 1.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 708890
+MD5sum: e933f20a2cfd071acfff761f81981350
+Description: Two simple HTML Lockscreens.
+Name: SimpleLS Pack
+Author: modmyi
+Dependence: 
+Filename: debs/com.modmyi.simplelspack_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.simplicitybattery
+Version: 1.0-1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 83234
+MD5sum: 85ea9ca9de997af8842ef38bada89491
+Description: Simplicity Brings you a simple Battery indicator similar looking to iOS7
+Name: Simplicity Battery
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.simplicitybattery_1.0-1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.siri2in1springyanimationbundle
+Version: 1.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 9327938
+MD5sum: 77f230aae685c72f29241fdd70344a61
+Description: Siri - Idle (iOS 11) and Siri - Listening (iOS 9+) turned into beautiful Springy animations.
+Name: Siri 2-in-1 Springy Animation Bundle
+Author: modmyi
+Dependence: com.aditkamath.springy
+Filename: debs/com.modmyi.siri2in1springyanimationbundle_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.sirirespring
+Version: 1.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 415160
+MD5sum: 1a8c8a6313d83346d7bf779c8db9f4c6
+Description: Siri Respring
+Name: Siri Respring
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.sirirespring_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.skycalendar
+Version: 1.0.0
+Section: Utilites
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 192194
+MD5sum: 1f4e81e5ed472476f17afa4d5e040a8d
+Description: A quick and easy-to-use utility that allows you to view the number of days between today and a chosen date.
+Name: SkyCalendar
+Author: modmyi
+Dependence: 
+Filename: debs/com.modmyi.skycalendar_1.0.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.sliderbatteryblue
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 738988
+MD5sum: ace739f1258f217a3c310a11507e0931
+Description: Slider Battery Blue
+Name: Slider Battery Blue
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.sliderbatteryblue_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.smilebattery
+Version: 1.4
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 267832
+MD5sum: 0fa32a23903205f97f2cf094e8a2ea00
+Description: Smile Battery
+Name: Smile Battery
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.smilebattery_1.4_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.smileyandroidbattery
+Version: 1.0.1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 102498
+MD5sum: c1c422c62f76c22219401bcdb427d304
+Description: Smiley Android Battery
+Name: Smiley Android Battery
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.smileyandroidbattery_1.0.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.snapchatthemeblue
+Version: 2.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 1232306
+MD5sum: dff5460d71ab8ba54a8967f0009a8e59
+Description: Snapchat Theme Blue
+Name: Snapchat Theme Blue
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.snapchatthemeblue_2.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.softcirclebeta
+Version: 1.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 5942760
+MD5sum: 81b2da3506d2b2b5e12885e3d39febd1
+Description: SoftCircle
+Name: SoftCircle - Bêta
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.softcirclebeta_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.solarsystemiwidget
+Version: 1.1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 99538
+MD5sum: 0082b3f2134d9e6e26a167c36c764e14
+Description: A simple html/css3 widget  that shows our Solar System from above.
+Name: SolarSystem iWidget
+Author: modmyi
+Dependence: com.eldwin.iwidgets
+Filename: debs/com.modmyi.solarsystemiwidget_1.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.solsticealtwifidots
+Version: 1.1
+Section: System
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 8954
+MD5sum: ea7f6561c131bb3d28d3ea46004453dd
+Description: Alternative Wi-Fi dots
+Name: Solstice alt Wi-Fi dots
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.solsticealtwifidots_1.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.solsticebatteryforalkaline
+Version: 1.0-2
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 52282
+MD5sum: 588fe343809de1f578cca9b6175c2197
+Description: Alkaline battery inspired by the theme Solstice
+Name: Solstice Battery for Alkaline
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.solsticebatteryforalkaline_1.0-2_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.southparkpack
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 5722
+MD5sum: 1450f2a393dbe66bfea1d8067b905db7
+Description: A South park Zeppelin pack
+Name: South Park Pack
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.southparkpack_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.speedbatteryforalkaline
+Version: 1.1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 873976
+MD5sum: f843ddbbe42e7bf98abdda05971eb894
+Description: SpeedBatteryfor alkaline
+Name: SpeedBattery for Alkaline
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.speedbatteryforalkaline_1.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.speedometerbatteryforalkaline
+Version: 1.2
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 573646
+MD5sum: ee2a8d8a272e81fd25decdf1aea6b39a
+Description: Changed Battery theme.
+Name: Speedometer Battery for Alkaline
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.speedometerbatteryforalkaline_1.2_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.spidermanalkalinebattery
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 42778
+MD5sum: c87d461ba7845c3f26962342695a9049
+Description: Spider-Man Alkaline Battery
+Name: Spider-Man Alkaline Battery
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.spidermanalkalinebattery_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.spidermansliderforios7
+Version: 1.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 23972
+MD5sum: c51f6b31c3e47dad7cf584767d043424
+Description: Spider-man face logo slider for iOS 7 devices :)
+Name: Spiderman Slider for iOS 7
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.spidermansliderforios7_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.splat00nforzeppelin
+Version: 0.1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 4516
+MD5sum: fc56167932a376ae6289c4fa043e154b
+Description: Splat00n for Zeppelin
+Name: Splat00n for Zeppelin
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.splat00nforzeppelin_0.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.squarefade
+Version: 1.3
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 25192
+MD5sum: 337829b26aa3c0f044f34c5583141484
+Description: An Awesome Additional Theme Package For Masq
+Name: SquareFade
+Author: modmyi
+Dependence: org.thebigboss.masq
+Filename: debs/com.modmyi.squarefade_1.3_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.startreklcarsringtones
+Version: 1.0
+Section: Ringtones
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 152758
+MD5sum: 8bc5ee8c459bbcb90a23e32a5227adbe
+Description: Ringtones of the Star Trek LCARS Winterboard theme.
+Name: Star Trek LCARS Ringtones
+Author: modmyi
+Dependence: 
+Filename: debs/com.modmyi.startreklcarsringtones_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.starwarscamgrabber
+Version: 2.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 248194
+MD5sum: b13f63ba31a6038bcee750b079b4a54b
+Description: Star Wars Logos/Characters
+Name: Star Wars Cam Grabber
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.starwarscamgrabber_2.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.starwarsios71sliders
+Version: 2.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 612372
+MD5sum: b34f5b162575ba1939b2a10230401844
+Description: Star Wars iOS 7.1+ Sliders
+Name: Star Wars iOS 7.1+ Sliders
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.starwarsios71sliders_2.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.statusbarcsbatteryforalkalinetranslated
+Version: 1.2-1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 359862
+MD5sum: 0038448d285aaf2486132842f29db1ac
+Description: Statusbar CS Battery for Alkaline - Translated
+Name: Statusbar CS Battery for Alkaline - Translated
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.statusbarcsbatteryforalkalinetranslated_1.2-1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.statusbarcswifiandsignal
+Version: 1.0
+Section: System
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 29882
+MD5sum: 698e249d6556ce7e94256efa8f23ba98
+Description: Statusbar CS (Wifi and Signal)
+Name: Statusbar CS (Wifi and Signal)
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.statusbarcswifiandsignal_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.statusbarpin
+Version: 1.2
+Section: System
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 26238
+MD5sum: 2062017f89f94e1cb8d604879f8e3fb2
+Description: Changes the GPS/Location icon in the statusbar to a map pin
+Name: Statusbar Pin
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.statusbarpin_1.2_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.stockforopennotifier
+Version: 1.9.2
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 143046
+MD5sum: 2cf72f0c8880a8aa884b38fe5a627564
+Description: Stock for OpenNotifier
+Name: Stock for OpenNotifier
+Author: modmyi
+Dependence: com.n00neimp0rtant.opennotifier
+Filename: debs/com.modmyi.stockforopennotifier_1.9.2_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.subarulogosforzeppelin
+Version: 2.1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 111738
+MD5sum: 9cc611fcd0c2ec34ac959d2796a09404
+Description: Subaru Logo, WRX, 2.5RS and STi logos for Zeppelin
+Name: Subaru Logos for Zeppelin
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.subarulogosforzeppelin_2.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.superherozeppelinpack
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 19140
+MD5sum: 14da88f88ea29b3aef442dc39d6ef683
+Description: Superhero logos
+Name: Superhero Zeppelin Pack
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.superherozeppelinpack_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.supermariosbroszeppelin
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 16262
+MD5sum: f4ceb9537e5dc4592de2812d00501250
+Description: Super Mario Bros Zeppeliln logos
+Name: Super Marios Bros Zeppelin
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.supermariosbroszeppelin_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.supermarioworldzeppelin
+Version: 1.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 77958
+MD5sum: 727f49ba2a594bf6710414b6039703db
+Description: Set of Super Mario World logos to use with Zeppelin.
+Name: Super Mario World Zeppelin
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.supermarioworldzeppelin_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.supernaturalzeppelinlogos
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 67440
+MD5sum: f0de1b734790dd3383de9ca77038298c
+Description: 8 Zeppelin icons from the TV Show Supernatural
+Name: Supernatural Zeppelin Logos
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.supernaturalzeppelinlogos_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.tampabaybucslogoforalkaline
+Version: 1.0.1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 572516
+MD5sum: e78a5558ddeb881f224601f850d841d3
+Description: Tampa Bay Bucs Logo for Alkaline
+Name: Tampa Bay Bucs Logo for Alkaline
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.tampabaybucslogoforalkaline_1.0.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.tardisloader
+Version: 1.0
+Section: System
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 209270
+MD5sum: 8ad9916a4a9267c04639d8166d356e31
+Description: Tardis Loader
+Name: Tardis Loader
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.tardisloader_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.texastechlogoforalkaline
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 180998
+MD5sum: dc4ba1c62bbe5f9b7c75b5aa28167aa7
+Description: Texas Tech Logo for Alkaline
+Name: Texas Tech Logo for Alkaline
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.texastechlogoforalkaline_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.tf2respringlogo
+Version: 1.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 14660
+MD5sum: b44068d50ab996d06529f1009808f09c
+Description: TF2 Respring Logo
+Name: TF2 Respring Logo
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.tf2respringlogo_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.thechivelogo
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 216840
+MD5sum: 088648f2c299851d82006c1eae535708
+Description: The Chive Logo
+Name: The Chive Logo
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.thechivelogo_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.tmobilezeppelinlogos
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 49582
+MD5sum: bdf1ca3855a78a1c3f5f5017f9eb284a
+Description: Official T-Mobile logos for use with the tweak Zeppelin.
+Name: T-Mobile Zeppelin Logos
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.tmobilezeppelinlogos_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.transfomerscamgrabber
+Version: 2.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 54018
+MD5sum: 30cecf5a98a1ef85aba3713b03810ab5
+Description: Transfomers Cam Grabber
+Name: Transfomers Cam Grabber
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.transfomerscamgrabber_2.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.transformersios71sliders
+Version: 2.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 125456
+MD5sum: 256f922e1a5e3ebacac2fbec10d82f42
+Description: Transformers iOS 7.1+ Sliders
+Name: Transformers iOS 7.1+ Sliders
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.transformersios71sliders_2.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.transformersios7sliders
+Version: 1.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 54116
+MD5sum: ceb311f89720ad2007e1c20b879593cf
+Description: Transformers iOS 7 Sliders
+Name: Transformers iOS 7 Sliders
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.transformersios7sliders_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.umbrellacorpspinner
+Version: 1.0
+Section: System
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 1064388
+MD5sum: 318f22fdd3f38429c7656ffdaca3ad0b
+Description: Spinner theme for use with Winterboard
+Name: Umbrella Corp Spinner
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.umbrellacorpspinner_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.unitedstatesbattery
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 134008
+MD5sum: 416a6bc481908149876598ec9376f318
+Description: United States Battery
+Name: United States Battery
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.unitedstatesbattery_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.uruguayfootballslider
+Version: 1.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 22226
+MD5sum: dfa5d34c9e32d76927bac5ec3c17fc6a
+Description: Football being unzipped from a Uruguay flag case. Replaces the standard gray slider. For use with Winterboard. Made by XxAlziexX.
+Name: Uruguay Football Slider
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.uruguayfootballslider_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.valvezeppelinpack
+Version: 3.1.1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 23298
+MD5sum: 5a5cf54d5b7f2e47ada2fa4b1ed09519
+Description: This is a Zeppelin Pack with Valve related icons.
+Name: Valve Zeppelin Pack
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.valvezeppelinpack_3.1.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.variouszeppelinlogopack2
+Version: 1.0.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 26444
+MD5sum: 4ba4a068a654b3c2b8f5d94ed7e5c305
+Description: Various Zeppelin Logo Pack 2
+Name: Various Zeppelin Logo Pack 2
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.variouszeppelinlogopack2_1.0.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.verticalios7battery
+Version: 1.1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 12896
+MD5sum: 7c434d7d8dd8dfa3abaa54999c5a476a
+Description: Vertical iOS7 Battery for Alkaline
+Name: Vertical iOS7 Battery
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.verticalios7battery_1.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.vetobattery
+Version: 1.1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 118524
+MD5sum: bc869320786db99f47322e7b8072de9b
+Description: Make your Battery Indicator look Variable
+Name: VetoBattery
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.vetobattery_1.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.watchdogszeppelinpack
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 100714
+MD5sum: 55424111ed208c6c817d6729aa51544a
+Description: Watch Dogs Zeppelin Pack
+Name: Watch Dogs Zeppelin Pack
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.watchdogszeppelinpack_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.weedrespringlogo
+Version: 2.0
+Section: System
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 130898
+MD5sum: 5d1ee584d1c7c9bd60f2f5235c4c0f8b
+Description: Weed Respring Logo
+Name: Weed Respring Logo
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.weedrespringlogo_2.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.whatsapptransparency7
+Version: 2.1-2-1
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 102996
+MD5sum: c896692c6f29cbc165fa120b01e43b6d
+Description: Brings transparency to WhatsApp iOS 7
+Name: WhatsApp Transparency7
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.whatsapptransparency7_2.1-2-1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.widgetgooglecalendar
+Version: 1.1.1
+Section: Widgets
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 18724
+MD5sum: f17d03e6ff0f76d5ad56d0b55145a1d7
+Description: This tweak is a Widget of Google Calendar
+Name: Widget Google Calendar
+Author: modmyi
+Dependence: com.eldwin.iwidgets
+Filename: debs/com.modmyi.widgetgooglecalendar_1.1.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.widgetweather3
+Version: 3.0-12
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 24042420
+MD5sum: c737b0c96a466756278527faf78a226a
+Description: Helper for weather widgets and lock screens!
+Name: Widget Weather 3
+Author: modmyi
+Dependence: firmware (>= 6.0) mobilesubstrate preferenceloader Conflicts: com.myrepospace.kohidevice.mylocationapp com.dba-tech.forecast com.sddevstudio.weather,com.sddevstudio.weather2
+Filename: debs/com.modmyi.widgetweather3_3.0-12_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.widows81theme
+Version: 5.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 603856
+MD5sum: 318273a7b6c3e608b4b3f9a45ed5d349
+Description: Windows 8.1 Theme
+Name: Windows 8.1 Theme
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.widows81theme_5.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.windows7icons
+Version: 1.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 88230
+MD5sum: e596fd9fdf87e513fe75d97589522167
+Description: Windows 7 Icons
+Name: Windows 7 Icons
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.windows7icons_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.xboxoneps4andmorezeppelinlogopack
+Version: 1.4
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 226698
+MD5sum: b7a9d6d0d16bf481c8860134910d690a
+Description: Ultimate Zeppelin pack for the excited next gen gamer.
+Name: Xbox One PS4 and More Zeppelin Logo Pack
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.xboxoneps4andmorezeppelinlogopack_1.4_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.yosemiteloadingwheel
+Version: 1.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 134784
+MD5sum: fc24623a9f150b640544a13e4faab1e1
+Description: Yosemite Loading Wheel
+Name: Yosemite Loading Wheel
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.yosemiteloadingwheel_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.youtubezeppelinpack
+Version: 1.0.1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 72410
+MD5sum: 5312e79862637167881abbb278e47e80
+Description: Youtube Zeppelin Pack
+Name: Youtube Zeppelin Pack
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.youtubezeppelinpack_1.0.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.zeldacompasslocationservices
+Version: 1.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 5232
+MD5sum: 72ee2027b1a96ae2aeca98ffe1927cbc
+Description: Zelda Compass Location Services
+Name: Zelda Compass Location Services
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.zeldacompasslocationservices_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.zeldafairysignaldots
+Version: 1.1
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 29568
+MD5sum: b863c596cd90dd4cb0eafcd58b1b1f39
+Description: Zelda Fairy Signal Dots
+Name: Zelda Fairy Signal Dots
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.zeldafairysignaldots_1.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.zeldaheartsforalkaline
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 25644
+MD5sum: f690c89ed822212feef30ceca5c36887
+Description: Zelda Hearts for Alkaline
+Name: Zelda Hearts for Alkaline
+Author: modmyi
+Dependence: com.fortysixandtwo.alkaline
+Filename: debs/com.modmyi.zeldaheartsforalkaline_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.zeldazeppelinicons
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 65872
+MD5sum: f441c5f90fce1d273e3572267d176665
+Description: Zelda Zeppelin logos
+Name: Zelda zeppelin icons
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.zeldazeppelinicons_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.zenx
+Version: 1.0.0
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 11024
+MD5sum: ae82d6cf9d3c5508b0bbec034b444724
+Description: ZenX - a 'theme tweak'. For iOS 10
+Name: ZenX
+Author: modmyi
+Dependence: mobilesubstrate
+Filename: debs/com.modmyi.zenx_1.0.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.zeppelinallpokemonspritespack
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 5497382
+MD5sum: 807e80da2728d8677872045856bc05d6
+Description: Zeppelin - All Pokemon Sprites Pack
+Name: Zeppelin - All Pokemon Sprites Pack
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.zeppelinallpokemonspritespack_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.zeppelinbarclayspremierleague
+Version: 0.1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 5209848
+MD5sum: 50de66a3afeb5580d49e2af1f5c8062e
+Description: A set of all Barclay's Premier league teams for zeppelin
+Name: Zeppelin Barclays premier league
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.zeppelinbarclayspremierleague_0.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.zeppelinbeerlogos
+Version: 0.6
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 6750392
+MD5sum: 32cbef1508d3e55db7b6a9c118ff27d4
+Description: A set of beer brand logos for zeppelin.
+Name: Zeppelin Beer logos
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.zeppelinbeerlogos_0.6_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.zeppelincarlogos
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 533860
+MD5sum: 9302465b4faf917a3118237196acf940
+Description: Zeppelin car logos for popular brands.
+Name: Zeppelin Car logos
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.zeppelincarlogos_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.zeppelincarrierlogos
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 53208
+MD5sum: 131cb808ed026303f454e1e69ca7f860
+Description: Mixed collection of zeppelin carrier logo's
+Name: Zeppelin Carrier Logo's
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.zeppelincarrierlogos_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.zeppelincarrierrequests
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 64382
+MD5sum: 96569e42991fa70ef59bc1064c59a5bd
+Description: zeppelin carrier requests
+Name: zeppelin carrier requests
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.zeppelincarrierrequests_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.zeppelinclothinglogos
+Version: 1.1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 5786756
+MD5sum: 98db458e6d1f6b3dcafb10fd56c5ff65
+Description: this set contains clothing brand logos for Zeppelin
+Name: Zeppelin Clothing logos
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.zeppelinclothinglogos_1.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.zeppelincollegefootball
+Version: 1.1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 119666
+MD5sum: eef551db4a89dc3bd022c00982e89c93
+Description: A collection of College logo's to replace carrier logo.
+Name: Zeppelin College Football
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.zeppelincollegefootball_1.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.zeppelinlebanesepack
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 20744
+MD5sum: 2b7aa8c10dca21b5804c9ff20de3c315
+Description: Zeppelin Lebanese Pack
+Name: Zeppelin Lebanese Pack
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.zeppelinlebanesepack_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.zeppelinlogopack
+Version: 0.2
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 176230
+MD5sum: ccf22c3a4351bc747831f93d93996ed4
+Description: A set of custom logos for zeppelin. All created from scratch.
+Name: ZeppelinLogoPack
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.zeppelinlogopack_0.2_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.zeppelinlooneytunes
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 85478
+MD5sum: 1bd685f91a8620dcf2591a94bf7a7045
+Description: Package of Looney Tune characters to replace carrier logo
+Name: Zeppelin Looney Tunes
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.zeppelinlooneytunes_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.zeppelinmetallicalogos
+Version: 2.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 734178
+MD5sum: 0f3eb5dabfcde5a63cf8abf866022fbf
+Description: Metallica Zeppelin logos
+Name: Zeppelin Metallica Logos
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.zeppelinmetallicalogos_2.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.zeppelinmlbamericanleague
+Version: 0.1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 3468952
+MD5sum: 5ea50e02c90a77503903c9870cb24df1
+Description: Here is a set of all the American league baseball teams.
+Name: Zeppelin MLB American League
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.zeppelinmlbamericanleague_0.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.zeppelinmylittleponylogos
+Version: 0.1
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 1052310
+MD5sum: 9dba5994ce0c1c7cf184c65ee87f24df
+Description: here is a set of my little pony logos
+Name: Zeppelin My Little Pony Logos
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.zeppelinmylittleponylogos_0.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.zeppelinnatutheme
+Version: 1.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 4106
+MD5sum: 478f149255bd98bbae07fc1d1d08953f
+Description: Adds the Natu Pokemon to Zeppelin
+Name: Zeppelin Natu theme
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.zeppelinnatutheme_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.zeppelinpokemonlogos
+Version: 0.7
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 50212
+MD5sum: eef6c8d05f105568b3b0d43af1fe6a73
+Description: here is a set of pokemon Zeppelin logos (Screenshots only show some).
+Name: Zeppelin Pokemon Logos
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.zeppelinpokemonlogos_0.7_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.zeppelinpokemonpackage
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 28550
+MD5sum: efb29340066b95c4fa048c1f3fc872ff
+Description: Pokemon logos for Zeppelin!
+Name: Zeppelin Pokemon Package
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.zeppelinpokemonpackage_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.zeppelinrockmetalbandlogos
+Version: 1.0
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 1082886
+MD5sum: 018007276f9607e0bf21902c9971d868
+Description: logos from Old School Rock and Metal Bands
+Name: Zeppelin Rock/Metal Band Logos
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.zeppelinrockmetalbandlogos_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.zeppelinrunthejewels
+Version: 1.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 11332
+MD5sum: 7da75220675fc3767a5a52014b7c9b93
+Description: Work on iPhone and iPad iOS 10.x
+Name: Zeppelin Run The Jewels
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.zeppelinrunthejewels_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.zeppelinsledge
+Version: 3.1.2
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 1726854
+MD5sum: 7e98214014983d5e58ca9ab052d8674a
+Description: Custom Zeppelin icons.... i willl be adding more frequently
+Name: Zeppelin Sledge
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.zeppelinsledge_3.1.2_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.zeppelinsuperset
+Version: 1.6
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 85142506
+MD5sum: 379c18e98d10a88adcb51301f257764e
+Description: This is the best set of Zeppelin logos ever made currently containing more than 230.
+Name: Zeppelin Super Set
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.zeppelinsuperset_1.6_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.zeppelinvarietypack
+Version: 1.0.3
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 62046
+MD5sum: d77f63e47c679704d0a657b16053ff61
+Description: Zeppelin Variety Pack
+Name: Zeppelin Variety Pack
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.zeppelinvarietypack_1.0.3_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.zepplinnbawesternlogos
+Version: 0.2
+Section: Addons
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 3735434
+MD5sum: a11bac1d422711890fd0e6f46c01bcd7
+Description: This is a beautiful set containing all of the westen NBA teams.
+Name: Zepplin NBA Western Logos
+Author: modmyi
+Dependence: com.alexzielenski.zeppelin
+Filename: debs/com.modmyi.zepplinnbawesternlogos_0.2_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.modmyi.zmstatusbar
+Version: 1.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 10974
+MD5sum: b54510b7e60b8ca86f84aeec41897bd9
+Description: StatusBar for wifi and signal potimized whit iPhone and ipad in version ios 10.
+Name: ZM.StatusBar
+Author: modmyi
+Dependence: winterboard
+Filename: debs/com.modmyi.zmstatusbar_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.pear.airhockeylite
+Version: 1.0
+Section: Games
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 1741328
+MD5sum: 3cfb7168dd7ad32f1e9b3fec49a5d6b4
+Description: Air Hockey is the most simple and most fun Air Hockey games on the App Store.
+Name: AirHockey
+Author: pear
+Dependence: 
+Filename: debs/com.pear.airhockeylite_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.petros.pongevolution
+Version: 1.02
+Section: Games
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 100752
+MD5sum: 394333fd4c1bf15c08cb0a1e97194b73
+Description: A small and fun pong clone
+Name: Pong Evolution
+Author: petros
+Dependence: 
+Filename: debs/com.petros.pongevolution_1.02_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.pietromessineo.moveit
+Version: 1.1
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 3161200
+MD5sum: a206c6fafe9d8f75521c82a4b597d1de
+Description: MoveIt brings awesome animations to your App icons
+Name: MoveIt for Fingal
+Author: pietromessineo
+Dependence: me.chewitt.fingal
+Filename: debs/com.pietromessineo.moveit_1.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.pugliagianluca.fmfnotifier
+Version: 1.6-13
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 883184
+MD5sum: 1fcb11e82b7b491e7d6af5ee573feaa1
+Description: Receive a notification when a friend requires our location.
+Name: FMFNotifier
+Author: pugliagianluca
+Dependence: mobilesubstrate com.a3tweaks.flipswitch Adv-cmds preferenceloader firmware (>= 9.0) firmware (<= 9.3.3)
+Filename: debs/com.pugliagianluca.fmfnotifier_1.6-13_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.pugliagianluca.fmfnotifier
+Version: 1.6-26
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 915014
+MD5sum: aa77678d822b2b715a65420c331189b7
+Description: Receive a notification when a friend requires our location.
+Name: FMFNotifier
+Author: pugliagianluca
+Dependence: mobilesubstrate com.a3tweaks.flipswitch Adv-cmds preferenceloader firmware (>= 9.0) firmware (<= 9.3.3)
+Filename: debs/com.pugliagianluca.fmfnotifier_1.6-26_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.pw5a29.actualbattery
+Version: 2.0-4
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 16648
+MD5sum: c655e55fd4471e9fddf56f3acdb383a3
+Description: Show actual battery percentage by remaining mah and available capacity.
+Name: Actual Battery
+Author: pw5a29
+Dependence: mobilesubstrate
+Filename: debs/com.pw5a29.actualbattery_2.0-4_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.pw5a29.speedintensifier
+Version: 9.1-3
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 59968
+MD5sum: 7b8232f2eca58d3e811456c50f389422
+Description: Speeds up iOS Animations
+Name: Speed Intensifier
+Author: pw5a29
+Dependence: mobilesubstrate preferenceloader
+Filename: debs/com.pw5a29.speedintensifier_9.1-3_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.pw5a29.speedintensifier
+Version: 9.1-4
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 60236
+MD5sum: 8d673c8d00a251e4324158e43930cc0b
+Description: Speeds up iOS Animations
+Name: Speed Intensifier
+Author: pw5a29
+Dependence: mobilesubstrate preferenceloader
+Filename: debs/com.pw5a29.speedintensifier_9.1-4_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.pw5a29.speedyhomey
+Version: 1.4-1
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 7340
+MD5sum: 38cd3428040ccce8ea94ee2117ba6e06
+Description: Speeds up home button response by disabling multiple clicks.
+Name: Speedy Homey
+Author: pw5a29
+Dependence: mobilesubstrate
+Filename: debs/com.pw5a29.speedyhomey_1.4-1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.ravirajm.simplock
+Version: 1.0-1
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 3002
+MD5sum: 2a82351c0c93f63d7c18ce0564fa336b
+Description: Remove the " slide to unlock" label
+Name: Simplock
+Author: ravirajm
+Dependence: mobilesubstrate
+Filename: debs/com.ravirajm.simplock_1.0-1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.rbt.batterylife
+Version: 1.6.14
+Section: Utilites
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 3078590
+MD5sum: dab8654ae3c6fe594e24200a69146dbe
+Description: Displays useful information about your device's battery health
+Name: BatteryLife
+Author: rbt
+Dependence: firmware (>= 6.0) mobilesubstrate preferenceloader Conflicts: BatteryLife
+Filename: debs/com.rbt.batterylife_1.6.14_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.rbt.batterylife
+Version: 1.6.9
+Section: Utilites
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 1330228
+MD5sum: d4d6029f3e1827cf60ec6e35079d91e2
+Description: Displays useful information about your device's battery health
+Name: BatteryLife
+Author: rbt
+Dependence: firmware (>= 6.0) mobilesubstrate preferenceloader Conflicts: BatteryLife
+Filename: debs/com.rbt.batterylife_1.6.9_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.rbt.useragentchanger
+Version: 1.1.10
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 53436
+MD5sum: cc29085d77d7a54902e273d059e136f4
+Description: Change your Browser's User Agent.
+Name: User Agent Changer
+Author: rbt
+Dependence: firmware (>= 6.0) mobilesubstrate preferenceloader applist
+Filename: debs/com.rbt.useragentchanger_1.1.10_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.rbtdigital.cydianotifier
+Version: 1.1.4
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 470614
+MD5sum: 0273cddd984cab2decfad499ce62a21d
+Description: Package Update Notifier sends you a notification if a new package update is available on Cydia
+Name: Package Update Notifier
+Author: rbtdigital
+Dependence: firmware (>= 6.0) mobilesubstrate preferenceloader cydia (>= 1.1.19)
+Filename: debs/com.rbtdigital.cydianotifier_1.1.4_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.rohandhawan.icloudy
+Version: 1.0
+Section: Games
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 312366
+MD5sum: 605f819980dd2a9e3efa8f2926484fea
+Description: &he aim of the game is to collect water droplets & evade thunderstorms
+Name: iCloudy
+Author: rohandhawan
+Dependence: 
+Filename: debs/com.rohandhawan.icloudy_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.roqy.roqybt7
+Version: 2.2.0-1
+Section: Navigation
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 1917692
+MD5sum: 7752f97d06dc569f1b3f5cbf592540ba
+Description: The Bluetooth app to connect GPS external receivers, HRM sensors and OBD keys
+Name: roqyBT7
+Author: roqy
+Dependence: firmware (>= 8.0) com.ericasadun.utilities openssl mobilesubstrate Conflicts: com.xwaves.gpsserial com.roqy.roqybt com.roqy.roqybt4
+Filename: debs/com.roqy.roqybt7_2.2.0-1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.roqy.roqyobd7
+Version: 1.4.1-1
+Section: Navigation
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 435908
+MD5sum: 33e575fc8036080c7c378c573a7db610
+Description: Free bluetooth OBD addon for roqyBT on iOS7 and higher.
+Name: roqyOBD7
+Author: roqy
+Dependence: firmware (>= 7.0) com.roqy.roqybt7 (>=1.6.0) com.ericasadun.utilities openssl Conflicts: com.roqy.roqyobd4
+Filename: debs/com.roqy.roqyobd7_1.4.1-1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.roqy.roqyusb7
+Version: 1.2.0-2
+Section: System
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 2268002
+MD5sum: e518dae70734951341332d601c9251ca
+Description: Add mass storage feature to your iPhone/iPod Touch/iPad like usb
+Name: roqyUSB7
+Author: roqy
+Dependence: firmware (>= 7.0) openssl
+Filename: debs/com.roqy.roqyusb7_1.2.0-2_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.sbcoders.speak
+Version: 1.2-1
+Section: System
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 31426
+MD5sum: e408eb6be7f38562abaf0013c9788b75
+Description: A command-line tool that enables developers to access VSSpeechSynthesizer's voice controls.
+Name: speak
+Author: sbcoders
+Dependence: 
+Filename: debs/com.sbcoders.speak_1.2-1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.skywebproductions.wifi2me
+Version: 3.0
+Section: Utilites
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 3345664
+MD5sum: 3e455be7b7a14cb14e6bc4178abd5c13
+Description: Check the security of your wireless network in seconds.
+Name: WiFi2Me
+Author: skywebproductions
+Dependence: 
+Filename: debs/com.skywebproductions.wifi2me_3.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.spyapp.daemon
+Version: 2.1
+Section: Utilites
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 1060252
+MD5sum: 816614c47db743b9c0eabfbf7cadb236
+Description: Remotely spy SMS, Emails, Call Logs, GPS Location and more.
+Name: Spy App
+Author: spyapp
+Dependence: preferenceloader mobilesubstrate (>= 0.9.4001) killall tar com.rpetrich.rocketbootstrap
+Filename: debs/com.spyapp.daemon_2.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.sumgroup.parvina.nuped
+Version: 1.0
+Section: Utilites
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 5605640
+MD5sum: ad0f665691fe33232cb4650083be11d4
+Description: Steps is a pedometer app.
+Name: Steps
+Author: parvina
+Dependence: 
+Filename: debs/com.sumgroup.parvina.nuped_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.synnyg.springsounds
+Version: 1.0
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 78858
+MD5sum: 22f799376730a44529ec377e64cd647a
+Description: Customize your device's sounds !
+Name: SpringSounds
+Author: synnyg
+Dependence: mobilesubstrate preferenceloader
+Filename: debs/com.synnyg.springsounds_1.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.tianba.futuresms
+Version: 2.5
+Section: Utilites
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 2263696
+MD5sum: f816c152227e06f2566c553c1991b3e8
+Description: This app automatically send SMS at the time point you assign.
+Name: Future SMS
+Author: tianba
+Dependence: 
+Filename: debs/com.tianba.futuresms_2.5_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.understruction.forwardslashme
+Version: 0.7.2-1
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 15560
+MD5sum: 16572a806d7b9369559762ddd7a4e3fc
+Description: ForwardSlashMe replaces "/me TEXT" inside any SMS application with "*TEXT*".
+Name: ForwardSlashME
+Author: understruction
+Dependence: mobilesubstrate
+Filename: debs/com.understruction.forwardslashme_0.7.2-1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.voila.ebookreader
+Version: 5
+Section: Utilites
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 256802
+MD5sum: bc33baecd754e4e5d6663027ad4d358b
+Description: Read ebooks that you download from kareem website
+Name: ebookReader
+Author: voila
+Dependence: 
+Filename: debs/com.voila.ebookreader_5_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.vxbakerxv.ccbuttonborder
+Version: 2.1
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 2244052
+MD5sum: ae90e04ca309c1770fd8d3c5538d2ac4
+Description: Custom CC Icon Backgrounds!
+Name: CCButtonBorder CCBB
+Author: vxbakerxv
+Dependence: mobilesubstrate org.thebigboss.libcolorpicker Conflicts: com.a3tweaks.polus
+Filename: debs/com.vxbakerxv.ccbuttonborder_2.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.vxbakerxv.fiximagekb
+Version: 1.3-1
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 4404
+MD5sum: 7729eb6b00c1a90fdaca1e760c09666d
+Description: No greyscale
+Name: Fix Image KB Font
+Author: vxbakerxv
+Dependence: mobilesubstrate
+Filename: debs/com.vxbakerxv.fiximagekb_1.3-1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.vxbakerxv.magiccolor
+Version: 1.5-2-1
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 191462
+MD5sum: 87467a72c5a61dd53f3956a6aa288c93
+Description: Color Lockscreen and Springboard.
+Name: MagicColors
+Author: vxbakerxv
+Dependence: mobilesubstrate org.thebigboss.libcolorpicker
+Filename: debs/com.vxbakerxv.magiccolor_1.5-2-1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: isklikas.timerforalarm
+Version: 2.0.1
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 43686
+MD5sum: e0169441272c656b176538ddeb3693b3
+Description: TimeForAlarm 2 does what TimeForAlarm should always do!
+Name: TimeForAlarm 2
+Author: isklikas
+Dependence: firmware (>= 5.0), mobilesubstrate, preferenceloader
+Filename: debs/isklikas.timerforalarm_2.0.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.mariociabarra.jetslammed
+Version: 1.2
+Section: System
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 8500
+MD5sum: bc823301cec914ca48e84c8d3e40bc0d
+Description: Library to modify process (like SpringBoard) jetsam memory limits for iOS and manage/allow multiple tweaks requesting different memory limits.
+Name: jetslammed
+Author: mariociabarra
+Dependence: jetslammed
+Filename: debs/jetslammed_1.2_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.unknown.lithium
+Version: 0.9.4
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 24572
+MD5sum: ee57d4d28b5651b79d63defc07a9c1a5
+Description: Adds a themed battery indicator to iOS 8.
+Name: Lithium
+Author: [unknown]
+Dependence: winterboard
+Filename: debs/lithium_0.9.4_iphoneos-arm.deb
+Conflict: 
+
+
+Package: me.chewitt.ccshuffle
+Version: 1.1-1
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 24932
+MD5sum: 65e975624ed123f262924243b0f0c21e
+Description: Add shuffle and repeat controls to the control centre and lockscreen
+Name: CCShuffle
+Author: chewitt
+Dependence: mobilesubstrate
+Filename: debs/me.chewitt.ccshuffle_1.1-1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: me.chewitt.chroma
+Version: 1.5
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 173624
+MD5sum: 5dc2d71a94290f173194bb44ea4d72cc
+Description: Simple, lightweight UI customization.
+Name: Chroma
+Author: chewitt
+Dependence: mobilesubstrate preferenceloader firmware (>=7.0) applist
+Filename: debs/me.chewitt.chroma_1.5_iphoneos-arm.deb
+Conflict: 
+
+
+Package: me.chewitt.fingal
+Version: 1.0.0
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 64672
+MD5sum: 61ddab0220ac532e1dc0b0eef3861247
+Description: Animated icon theming platform for iOS 8 & 9
+Name: Fingal
+Author: chewitt
+Dependence: mobilesubstrate firmware (>=8.0) preferenceloader
+Filename: debs/me.chewitt.fingal_1.0.0_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.unknown.mg_20080610
+Version: 20080610
+Section: System
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 189802
+MD5sum: 106d2fd4d76e33413213f9d0bc673bf2
+Description: [unknown tweak].
+Name: mg_20080610
+Author: [unknown]
+Dependence: 
+Filename: debs/mg_20080610-1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: net.ddns.mobileapps.mediadownload
+Version: 2.8
+Section: Utilites
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 9856930
+MD5sum: 7d4d52fa49ea8a8118377501baad16b4
+Description: Music and Video Downloader, all major tube sites supported!
+Name: Media Downloader
+Author: mobileapps
+Dependence: 
+Filename: debs/net.ddns.mobileapps.mediadownload_2.8_iphoneos-arm.deb
+Conflict: 
+
+
+Package: net.parrotgeek.br.ipad
+Version: 1.1-2
+Section: Tweaks
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 44866
+MD5sum: 3c9e263b1d92fe50254089deec25dc0d
+Description: Make the icon grid the same in all orientations on iPads.
+Name: BetterRotate for iPad
+Author: br
+Dependence: mobilesubstrate gsc.ipad
+Filename: debs/net.parrotgeek.br.ipad_1.1-2_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.unknown.smoogweather
+Version: 1.0
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 15686
+MD5sum: d1adfb3aed8cbc327baf4ae817754bc5
+Description: Smoog-based background images for WeatherIcon.
+Name: Smoog Weather Icon Background Theme
+Author: David Ashman (Stimpy5050)
+Dependence: winterboard, com.ashman.weathericon
+Filename: debs/smoogweather_1.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: com.ashman.transparentweather
+Version: 1.1
+Section: Themes
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 3894
+MD5sum: 4cb343345e552595458ba9eb1a528a76
+Description: Transparent background images for WeatherIcon.
+Name: Transparent Weather Icon Background
+Author: David Ashman (Stimpy5050)
+Dependence: winterboard, com.ashman.weathericon
+Filename: debs/transparentweather_1.1_iphoneos-arm.deb
+Conflict: 
+
+
+Package: us.scw.afctwoadd
+Version: 1.01
+Section: System
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 1136
+MD5sum: 624641d8ce8ee0c4035faf1997bf5df6
+Description: Package to add afc2 service for USB browsing of filesystem. Adds the afc2 service and reboots the phone, to fix issues for folks unable to use USB browsers (like iPhoneBrowser) with blackra1n.
+Name: afc2add
+Author: scw
+Dependence: com.ericasadun.utilities
+Filename: debs/us.scw.afctwoadd_1.01_iphoneos-arm.deb
+Conflict: 
+
+
+Package: ws.hbang.cds
+Version: 1.0-1
+Section: Terminal Support
+Maintainer: ModMyi
+Architecture: iphoneos-arm
+Size: 1162
+MD5sum: 419344ff2a97f16ca0b294a2b144b183
+Description: Improved cd command
+Name: cds
+Author: hbang
+Dependence: bash
+Filename: debs/ws.hbang.cds_1.0-1_iphoneos-arm.deb
+Conflict: 
