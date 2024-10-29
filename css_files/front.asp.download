@@ -1,0 +1,38 @@
+var _____WB$wombat$assign$function_____ = function(name) {return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name)) || self[name]; };
+if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; return this; } }
+{
+  let window = _____WB$wombat$assign$function_____("window");
+  let self = _____WB$wombat$assign$function_____("self");
+  let document = _____WB$wombat$assign$function_____("document");
+  let location = _____WB$wombat$assign$function_____("location");
+  let top = _____WB$wombat$assign$function_____("top");
+  let parent = _____WB$wombat$assign$function_____("parent");
+  let frames = _____WB$wombat$assign$function_____("frames");
+  let opener = _____WB$wombat$assign$function_____("opener");
+
+if('undefined'==typeof VM){VM={};};VM.dropScript=function(src){var script=document.createElement("script");script.async=true;script.src=src;document.getElementsByTagName("head")[0].appendChild(script);};VM.pageView={
+pvu:'7F3C2B018B014A56A4B66F306640CE56',pvm:'7856cb02531c529f1a6f9b9b328f1756',ts:'1454140172633',ipid:'23437'};
+VM.dropScript('//web.archive.org/web/20160130074932/http://p.vibrant.co/s/1?pvu=7F3C2B018B014A56A4B66F306640CE56');(function(){var p=document.getElementsByTagName('head')[0];var t=document.createElement('script');t.type='text/javascript';t.src='https://web.archive.org/web/20160130074932/http://services.picadmedia.com/js/picadPB.js';p.appendChild(t)})();
+(function(){var scripts=document.getElementsByTagName('script');var element,src,script;for(var i=0;i<scripts.length;i++){element=scripts[i];src=element.src;if(src&&src.indexOf('/intellitxt/front.asp')>-1){script=document.createElement('script');script.async=true;script.src=src.replace(/\/intellitxt\/front.asp/,'/v4/load');script.src+='&ts=1454140172633&pvu=7F3C2B018B014A56A4B66F306640CE56&pvm=7856cb02531c529f1a6f9b9b328f1756';var entry=scripts[0];entry.parentNode.insertBefore(script,entry);break;}}})();
+
+}
+/*
+     FILE ARCHIVED ON 07:49:32 Jan 30, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 20:42:24 Apr 13, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.569
+  exclusion.robots: 0.081
+  exclusion.robots.policy: 0.073
+  cdx.remote: 0.052
+  esindex: 0.009
+  LoadShardBlock: 321.952 (3)
+  PetaboxLoader3.datanode: 98.678 (4)
+  PetaboxLoader3.resolve: 417.73 (3)
+  load_resource: 220.886
+*/
